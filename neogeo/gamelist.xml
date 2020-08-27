@@ -1469,16 +1469,6 @@ THE 'SHOUGI' IS A JAPANESE CHESS-STYLE GAME.</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./syscheck.zip</path>
-		<name>syscheck</name>
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
 		<path>./tws96.zip</path>
 		<name>TECMO WORLD SOCCER '96</name>
 		<desc>TECMO WORLD SOCCER '96 IS A 2D SOCCER GAME. THE GAME HAS A TOTAL OF 32 PLAYABLE TEAMS, EACH WITH ITS OWN STARTING FORMATION AS WELL AS RATINGS IN THREE ATTRIBUTES: SPEED, POWER, AND PRESS. THE TEAMS ARE DIVIDED BY GROUPS OF FOUR INTO EIGHT WORLD REGIONS: EUROPE I-IV, NORTH AMERICA, SOUTH AMERICA, AFRICA, AND ASIA AND OCEANIA. 
@@ -2083,5 +2073,398 @@ IT IS ALSO POSSIBLE TO JUMP ON ENEMIES OR PERFORM A SLIDING ATTACK.</desc>
 		<players>1-2</players>
 		<playcount>33</playcount>
 		<lastplayed>20180909T151526</lastplayed>
+	</game>
+	<game>
+		<path>./4play.zip</path>
+		<name>4 Player Input Test</name>
+		<image>./downloaded_images/4play.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./beast.zip</path>
+		<name>Shadow of the Beast</name>
+		<image>./downloaded_images/beast.png</image>
+		<desc>Homebrew Demo</desc>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./ironclad.zip</path>
+		<name>Choutetsu Brikin'ger - Iron Clad</name>
+		<desc>Ironclad is a side scrolling shooter developed by Saurus in 1996. Ironclad was first shown in its native MVS cartridge format at the March 1996 ACME show in Orlando, Florida. I saw and played the game at the show. We always knew therefore that at the very least, one proto was available on the MVS format. Although the game saw release on the NEOGEO CD system, it was never officially released in either the MVS or HOME cartridge formats. Ironclad was the most sought after of all the CD-protos because of its appeal to shoot 'em up fans. This was most likely why it had coincidentally caused the largest number of false claims; more then any other proto cartridge! 13 years later, in November of 2009, SNK finally released the native ROM data for the game and as a result we finally got the game and can now enjoy it forever!</desc>
+		<image>./downloaded_images/ironclad.png</image>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./cnbe.zip</path>
+		<name>Codename: Blut Engel</name>
+		<desc>Codename: Blut Engel is an insane homebrew vertical shooting game.</desc>
+		<image>./downloaded_images/cnbe.png</image>
+		<releasedate>20060119T000000</releasedate>
+		<developer>Blaster</developer>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./cndi.zip</path>
+		<name>Chip N Dale (intro Demo)</name>
+		<image>./downloaded_images/cndi.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./columnsn.zip</path>
+		<name>Columns</name>
+		<desc>The classic falling block arcade game Columns ported to the Neo Geo.</desc>
+		<image>./downloaded_images/columnsn.png</image>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./cthd2003.zip</path>
+		<name>Crouching tiger hidden dragon</name>
+		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
+		<image>./downloaded_images/cthd2003.png</image>
+		<rating>0.65</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ct2k3sp.zip</path>
+		<name>Crouching tiger hidden dragon</name>
+		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
+		<image>./downloaded_images/cthd2003.png</image>
+		<rating>0.65</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./crswd2bl.zip</path>
+		<name>Crossed Swords 2</name>
+		<desc>Crossed Swords II is a "Hack 'n Slash" action game released in 1995 by ADK exclusively for the Neo Geo CD. It is the sequel to 1991's Crossed Swords. This version is a bootleg/hack of the CD version to make it playable in the Neo Geo MVS arcade system.
+
+Crossed Swords II features the same gameplay from its predecessor (Crossed Swords on Neo Geo MVS and AES). The player is given a first-person view with a third-person silhouette/wire-frame view of the character similar to the Punch-Out!! arcade game. New to this sequel is the addition of a new button for jumping and dashing, giving the player more maneuverability and allowing him to dodge incoming attacks. By pressing the attack button after dashing the player will make a horizontal slash which stuns enemies briefly, and by pressing the attack button after jumping the player will make a powerful downward slash.
+
+The player can now choose between three characters: the Knight, who is powerful but slow, the Dancer, who is fast but weak, and the Ninja, who has balanced stats. After choosing the character, the player must choose between two game modes: "Nausizz Counterattack" is the main story mode, while "Karividu Arena" is a survival mode where the player fights various enemies consecutively. 
+
+The Story: Decades have passed since the messenger of darkness Nausizz was defeated and peace restored to the kingdom of Belkana. This peace wouldn't last forever, though, as Nausizz's demonic castle has arisen from the depths of hell and his hordes of demons once again threaten the peaceful kingdom with chaos and destruction. Three brave warriors then join together to put and end to Nausizz's reign of terror.</desc>
+		<image>./downloaded_images/crswd2bl.png</image>
+		<releasedate>19950205T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ducki.zip</path>
+		<name>Duck Tales (intro Demo)</name>
+		<image>./downloaded_images/ducki.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./dwi.zip</path>
+		<name>Darkwing Duck</name>
+		<image>./downloaded_images/dwi.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./fswords.zip</path>
+		<name>Samurai Shodown III</name>
+		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword...but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character. The "Slash" techniques are the original moves of the most of the characters whereas the "Bust" techniques maybe the "darker" version of each character.</desc>
+		<image>./downloaded_images/fswords.png</image>
+		<rating>0.85</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./froman2b.zip</path>
+		<name>Idol Mahjong Final Romance 2</name>
+		<desc>Taisen Idol-Mahjong Final Romance 2 is strip mahjong game featuring nine different girls with three strip sequences each.</desc>
+		<image>./downloaded_images/froman2b.png</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Hack</developer>
+		<publisher>Hack</publisher>
+		<genre>Mahjong</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./ghostbi.zip</path>
+		<name>Ghost Busters (intro Demo)</name>
+		<image>./downloaded_images/ghostbi.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./kog.zip</path>
+		<name>The King of Fighters '97</name>
+		<desc>Another year, another KOF. Additions this year come in the form of slightly improved graphics and sounds, new moves and a new game mode. Gameplay is much more plot-driven, as you have middle-bosses that can change depending on what team you select. In addition, there are several special endings which are only shown when certain "Edit Team" combinations are selected. New characters include the New Face Team, the Fatal Fury Outlaw Team (featuring the KOF debut of "Blue" Mary Ryan and Ryuji Yamazaki, and the return of Billy Kane), and Kyo's pupil Shingo Yabuki. In total, The King of Fighters '97 sports 29 separate characters.</desc>
+		<image>./downloaded_images/kog.png</image>
+		<rating>0.85</rating>
+		<releasedate>19970925T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./kogplus.zip</path>
+		<name>The King of Fighters '97</name>
+		<desc>Another year, another KOF. Additions this year come in the form of slightly improved graphics and sounds, new moves and a new game mode. Gameplay is much more plot-driven, as you have middle-bosses that can change depending on what team you select. In addition, there are several special endings which are only shown when certain "Edit Team" combinations are selected. New characters include the New Face Team, the Fatal Fury Outlaw Team (featuring the KOF debut of "Blue" Mary Ryan and Ryuji Yamazaki, and the return of Billy Kane), and Kyo's pupil Shingo Yabuki. In total, The King of Fighters '97 sports 29 separate characters.</desc>
+		<image>./downloaded_images/kog.png</image>
+		<rating>0.85</rating>
+		<releasedate>19970925T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./lasthope.zip</path>
+		<name>Last Hope</name>
+		<desc>An evil empire from another galaxy is heading towards Earth. Barely 24 hours beforehand, they had penetrated the last line of defense in Earth's galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of earth's fleet was destroyed during first contact. Intelligence reports six days until their arrival. Conventional weapons cannot stop them. The last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth</desc>
+		<image>./downloaded_images/lasthope.png</image>
+		<releasedate>20060710T000000</releasedate>
+		<developer>NG:DEV.TEAM</developer>
+		<publisher>NG:DEV.TEAM</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./lhcdb.zip</path>
+		<name>Last Hope</name>
+		<desc>An evil empire from another galaxy is heading towards Earth. Barely 24 hours beforehand, they had penetrated the last line of defense in Earth's galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of earth's fleet was destroyed during first contact. Intelligence reports six days until their arrival. Conventional weapons cannot stop them. The last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth</desc>
+		<image>./downloaded_images/lasthope.png</image>
+		<releasedate>20060710T000000</releasedate>
+		<developer>NG:DEV.TEAM</developer>
+		<publisher>NG:DEV.TEAM</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./ltorb1.zip</path>
+		<name>Jonas Indiana and the Lost Temple of RA</name>
+		<desc>Jonas Indiana and the Lost Temple of Ra is a small homebrew platform game.</desc>
+		<image>./downloaded_images/ltorb1.png</image>
+		<releasedate>20050717T000000</releasedate>
+		<developer>Blastar</developer>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./mslug3b6.zip</path>
+		<name>Metal Slug 6</name>
+		<desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.
+
+Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.
+The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.</desc>
+		<image>./downloaded_images/mslug3b6.png</image>
+		<releasedate>20060224T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action, Adventure, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./moshougi.zip</path>
+		<name>Syougi No Tatsujin - Master of Syougi</name>
+		<desc>Shougi no Tatsujin was released in September 1995 in Japan.
+The title of this game translates from Japanese as 'Master of Shougi'.
+The 'Shougi' is a Japanese chess-style game.</desc>
+		<image>./downloaded_images/moshougi.png</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Asiatic board game</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./neo2500.zip</path>
+		<name>NAM-1975</name>
+		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
+		<image>./downloaded_images/neo2500.png</image>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./neo3ddmo.zip</path>
+		<name>Neogeo 3d! Demo</name>
+		<image>./downloaded_images/neo3ddmo.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./neocstlv.zip</path>
+		<name>Neo Castlevania Demo</name>
+		<image>./downloaded_images/neocstlv.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./neodemo.zip</path>
+		<name>Neo-neo! V1.1</name>
+		<image>./downloaded_images/neodemo-image.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./neogalag.zip</path>
+		<name>Galaga Demo</name>
+		<image>./downloaded_images/neoprimo.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./neoprimo.zip</path>
+		<name>Neoprimo</name>
+		<image>./downloaded_images/neoprimo.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./neotet.zip</path>
+		<name>NeoGeo 2-Player Tetris</name>
+		<desc>NeoGeo 2 Player Tetris is a simple Tetris game created in 2008 using the NeoBitz dev tools.</desc>
+		<image>./downloaded_images/neotet.png</image>
+		<developer>Crim</developer>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./neothndr.zip</path>
+		<name>Neo Thunder</name>
+		<desc>Neo Thunder is a run of the mill space shooter. You move all over the screen shooting baddies and dodge the myriad of bullets headed your way.</desc>
+		<image>./downloaded_images/neothndr.png</image>
+		<developer>Sebastian Mihai</developer>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./neoww2.zip</path>
+		<name>NAM-1975</name>
+		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
+		<image>./downloaded_images/neoww2.png</image>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ngem2k.zip</path>
+		<name>NGEM2K</name>
+		<desc>NGEM2K is a small homebrew puzzle game.</desc>
+		<image>./downloaded_images/ngem2k.png</image>
+		<releasedate>20060118T000000</releasedate>
+		<developer>Blastar</developer>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./ngfrog.zip</path>
+		<name>Frog Feast</name>
+		<desc>Frog Feast is a homebrew game available on many platforms. It is a remake of the Atari 2600 game Frog Bog. The objective is catch flies as you jump from lily-pad to lily-pad.</desc>
+		<image>./downloaded_images/ngfrog-image.jpg</image>
+		<developer>RasterSoft</developer>
+	</game>
+	<game>
+		<path>./ngftdemo.zip</path>
+		<name>Ngf Transparency Demo</name>
+		<image>./downloaded_images/ngftdemo.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./poknight.zip</path>
+		<name>Poker Night</name>
+		<image>./downloaded_images/poknight.png</image>
+	</game>
+	<game>
+		<path>./puzzldpr.zip</path>
+		<name>Puzzle de Pon! R</name>
+		<desc>The update/sequel to the original Puzzle de Pon! It's a puzzle game similar in style to Puzzle Bobble. The goal is to clear the bubbles surrounding the drop token, rather than just clear the stage.</desc>
+		<image>./downloaded_images/puzzldpr.png</image>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Visco Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./robocopi.zip</path>
+		<name>Robocop (intro Demo)</name>
+		<image>./downloaded_images/robocopi.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./spidermi.zip</path>
+		<name>Spiderman (intro Demo)</name>
+		<image>./downloaded_images/spidermi.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./syscheck.zip</path>
+		<name>Neo System Check</name>
+		<image>./downloaded_images/syscheck.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./timesupd.zip</path>
+		<name>Time's Up</name>
+		<image>./downloaded_images/timesupd.png</image>
+		<desc>Shoot'em up created by two French amateur developpers</desc>
+		<releasedate>20120101T000000</releasedate>
+		<developer>NGF Dev</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./tmnti.zip</path>
+		<name>Teenage Mutant Ninja Turtles (intro Demo)</name>
+		<image>./downloaded_images/tmnti.png</image>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./totc.zip</path>
+		<name>Treasure of the Caribbean</name>
+		<image>./downloaded_images/totc.png</image>
+		<releasedate>20120215T000000</releasedate>
+		<developer>Neo Conception International</developer>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./twsoc96.zip</path>
+		<name>Tecmo World Soccer '96</name>
+		<desc>Tecmo World Soccer '96 is a 2D soccer game. The game has a total of 32 playable teams, each with its own starting formation as well as ratings in three attributes: speed, power, and press. The teams are divided by groups of four into eight world regions: Europe I-IV, North America, South America, Africa, and Asia and Oceania. 
+
+On offense you can perform short or long passes with the A and C buttons, respectively, while the B button performs a scoring kick. While on defense you can manually switch player control with the B button or slide tackle the opposing ball carrier with the A button. Most of the time the game plays like a traditional 2D soccer title, but when the ball carrier and a defending player face off against each other, the game changes into a feinting interface.</desc>
+		<image>./downloaded_images/twsoc96-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports / Soccer</genre>
+		<players>1-2</players>
 	</game>
 </gameList>
