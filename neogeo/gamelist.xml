@@ -1,267 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./2020bb.zip</path>
-		<name>2020 SUPER BASEBALL</name>
-		<desc>IN THE YEAR 2020, BASEBALL FINALLY EVOLVED. THERE IS NO LONGER CONVENTIONAL PROFESSIONAL BASEBALL IN 2020. BASEBALL DESIGNED BY THE SUPER BASEBALL ASSOCIATION HAS BEEN VERY POPULAR AND IS THE BEST SPORT.
-
-HOWEVER, THE TRUTH IS THAT THE ASSOCIATION HAS USED A COLOSSAL SUM OF MONEY TO PROMOTE SUPER BASEBALL AS SHOW BUSINESS. THEY HAVE MANIPULATED EACH PLAYER'S ABILITY USING THE CONTROL COMPUTER TO SECRETLY DECIDE VICTORY OR DEFEAT IN EVERY GAME. THE PLAYERS WHO KNEW THIS REMOVED THE CONNECTING PARTS OF THE COMPUTER TO PLAY THEIR OWN GAME OF BASEBALL. FINALLY, A FAIR GAME IS GOING TO BE PLAYED AT CYBER EGG STADIUM.
-
-IN 2020 SUPER BASEBALL IS A FAST-PACED GAME WITH NEW RULES, WHERE YOU CAN SELECT 1 OF 12 INDIVIDUAL MEN, WOMEN, OR ROBOT PLAYERS. DURING PLAY, YOU CAN MAKE YOUR TEAM STRONGER WITH PRIZES EARNED FROM AMAZING CATCHES.
-</desc>
-		<image>./downloaded_images/2020bb-image.png</image>
-		<rating>1</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>PALLAS</developer>
-		<publisher>SNK</publisher>
-		<genre>SPORTS / BASEBALL</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./3countb.zip</path>
-		<name>3 COUNT BOUT</name>
-		<desc>3 COUNT BOUT IS A ONE-ON-ONE FIGHTING GAME. CHOOSE FROM TEN WRESTLERS WHO HAVE THEIR OWN POWER ATTACKS. THERE ARE TEN ROUNDS IN THE GAME, AND EACH ONE OF THEM HAS YOU FIGHTING OTHER WRESTLERS THAT ARE MUCH TOUGHER THAN THE PREVIOUS ONES. YOU DEFEAT EACH ONE BY BITING, KICKING, AND PERFORMING OTHER MOVES TO THE POINT WHERE THEIR DAMAGE METER IS EMPTY. BUT JUST BECAUSE IT IS EMPTY DOESN'T MEAN THAT YOU WIN. YOU HAVE TO PIN HIM FOR THE INFAMOUS-THREE COUNT. ALSO FEATURES COMPETITIVE PLAY AND TAG MATCH BATTLES.</desc>
-		<image>./downloaded_images/3countb-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>UPL</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./aodk.zip</path>
-		<name>AGGRESSORS OF DARK KOMBAT</name>
-		<desc>AGGRESSORS OF DARK KOMBAT IS ANOTHER ONE-ON-ONE STREET FIGHTING BEAT 'EM UP FROM THE NEO-GEO'S SEEMINGLY ENDLESS LIBRARY OF FIGHTERS.
-
-IT PITS 8 FIGHTERS OF DIFFERENT STYLES AND STRENGTHS AGAINST EACH OTHER IN A TOURNAMENT TO SEE WHO'S THE TOUGHEST MOFO ON THE STREETS OF TOKYO. YOUR OBJECTIVE AS USUAL IS TO DEPLETE YOUR OPPONENT'S HEALTH BAR WITHIN THE TIME LIMIT BY USING YOUR BASIC ATTACKS AND SPECIAL MOVES (TRIGGERED BY SPECIFIC CONTROLLER MOTIONS) WHILE AVOIDING HIS MOVES AND ATTACKS.
-
-UNIQUE TO AGGRESSORS OF DARK KOMBAT IS THE COMBINATION OF TRADITIONAL SIDE-SCROLLING BEAT 'EM UP ELEMENTS, MEANING CHARACTERS CAN FREELY MOVE IN AN ISOMETRIC SPACE INSTEAD OF BEING RESTRICTED TO A SINGLE PLANE OF MOVEMENT. WEAPONS AND THROW-ABLE ITEMS ARE USUALLY THROWN INTO THE ARENA BY THE CROWDS AND YOU CAN PICK THEM UP AND WIELD THEM FOR ADDED DAMAGE. ADDITIONALLY, MATCHES ARE 1-ROUND ONLY AFFAIRS, WITH AN EXTENDED MULTI-LAYERED HEALTH BAR THAT ALLOWS FOR LONGER ROUNDS THAN USUAL.</desc>
-		<image>./downloaded_images/aodk-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./alpham2.zip</path>
-		<name>ALPHA MISSION II</name>
-		<desc>THE LUNAR NIGHTMARE OF A BLOODY 200-YEAR SPACE WAR WAS THOUGHT TO BE OVER IN THE "ORIGINAL" ALPHA MISSION. BUT NOW WITH THE ADVENT OF MORE TECHNICALLY SOPHISTICATED WEAPONS, THE EVIL "FULVAR" AND HIS "SEVEN STAR ALLIANCE" HAVE RETURNED TO DESTROY ALL PLANETS THAT STAND IN THEIR WAY OF THE ULTIMATE TARGET... EARTH! NOW IN THE YEAR OF 2525! YOUR MISSION AS PILOT OF THE NEW SYD-FX FIGHTER IS TO USE EVERY WEAPON AT YOUR DISPOSAL TO RID THE GALAXY ONCE AND FOR ALL OF THE EVIL THAT NOW DOMINATES AND THREATENS EARTH. SO SUIT UP, HOLD YOUR BREATH, AND STAND READY FOR UNBELIEVABLE GRAPHICS AND STEREO SOUND THAT'LL SUCK YOU INTO THE FAR REACHES OF DEEP, DARK INNER SPACE. BE PREPARED... YOU MAY NEVER COME BACK!</desc>
-		<image>./downloaded_images/alpham2-image.png</image>
-		<rating>0.65</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>ACTION</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./androdun.zip</path>
-		<name>ANDRO DUNOS</name>
-		<desc>THE INVASION OF AN UNKNOWN LIFE SOURCE IS GETTING WORSE. NOBODY KNOWS IF THE DEFENSIVE LINE OR THE HEART OF THE ENEMY BASE IS RUINED FIRST. WITH THE PEOPLE'S HOPE, THE MOST ADVANCED FIGHTER WILL BE DISPATCHED INTO MULTI-SCROLLING SPACE.
-
-FIGHT YOUR WAY THROUGH SEVEN STAGES IN THIS HORIZONTAL-SCROLLING GAME, AND DEFEAT A BOSS AT THE END OF EACH ONE. YOU START THE GAME WITH FOUR MAIN WEAPONS, WHICH YOU CAN SWITCH FROM WITH THE CLICK OF A BUTTON. SOME OF THESE WEAPONS ARE MORE POWERFUL THAN OTHERS. YOU CAN ALSO FIRE OFF A CHARGED SHOT IF YOUR MAIN WEAPON LEVEL IS TWO OR GREATER, SIMPLY BY HOLDING DOWN THE FIRE BUTTON FOR ABOUT TWO SECONDS. USING CHARGED SHOTS CAN DO MORE DAMAGE TO AN ENEMY SHIP. IF YOU HAPPEN TO DIE, YOU WILL LOSE ONE POWER LEVEL FROM ALL FOUR WEAPONS. IF ALL YOUR LIVES ARE LOST AND ARE FORCED TO CONTINUE, YOU WILL START AGAIN WITH YOUR MAIN WEAPON ON THE SECOND POWER LEVEL AND ALL THREE SUB-WEAPONS ON THE FIRST POWER LEVEL.</desc>
-		<image>./downloaded_images/androdun-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>VISCO</developer>
-		<publisher>SNK</publisher>
-		<genre>ACTION</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./aof.zip</path>
-		<name>ART OF FIGHTING</name>
-		<desc>THE STORYLINE OF ART OF FIGHTING TAKES PLACE IN 1978. RYO SAKAZAKI AND ROBERT GARCIA SET OUT TO FIND RYO'S SISTER, YURI, WHO WAS KIDNAPPED BY MR. BIG. MR. BIG TOOK YURI TO ENTICE TAKUMA SAKAZAKI, RYO'S FATHER AND ORIGINATOR OF KYOKUGEN KARATE, AND ALSO BECAUSE RYO REFUSED TO WORK FOR BIG. AFTER RYO &amp; ROBERT DEFEAT MR. BIG, THEY FACE THE ENIGMATIC MR. KARATE. ART OF FIGHTING'S STORY ENDS WITH A CLIFF-HANGER; YURI IS ABOUT TO DISCLOSE THE TRUE IDENTITY OF MR. KARATE AS THEIR FATHER TAKUMA.</desc>
-		<image>./downloaded_images/aof-image.png</image>
-		<rating>0.75</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./aof2.zip</path>
-		<name>ART OF FIGHTING 2</name>
-		<desc>IN THIS SEQUEL TO THE ORIGINAL ART OF FIGHTING, AND PREQUEL TO THE ORIGINAL FATAL FURY, WE LEARN THAT MR. KARATE, THE FINAL BOSS OF THE ORIGINAL GAME, BEHIND THE MASK, IS REALLY TAKUMA SAKAZAKI, RYO AND YURI'S FATHER, THAT TAKUMA WAS BEING USED BY GEESE HOWARD FOR HIS OWN EVIL INTENTIONS, AND THAT MR. BIG WAS THE ONE WHO HAD ORIGINALLY KIDNAPPED YURI.
-
-MANY OF THE PROBLEMS THAT EXISTED IN THE FIRST GAME HAVE BEEN FIXED IN THIS INSTALLMENT (IT IS EASIER TO EXECUTE SPECIAL MOVES, YOU NO LONGER HAVE ONLY RYO OR ROBERT TO CHOOSE FROM IN 1 PLAYER MODE, ETC.).
-
-THE ENTIRE CAST FROM THE FIRST ART OF FIGHTING IS HERE (WITH THE EXCEPTIONS OF TODO AND MR. KARATE), ALONG WITH A FEW NEW CHARACTERS: TAKUMA SAKAZAKI, RYO AND YURI'S FATHER; YURI SAKAZAKI, TAKUMA'S DAUGHTER AND RYO'S SISTER; EIJI KISARAGI, A SWORN ENEMY OF THE SAKAZAKIS; TEMJIN, A MONGOLIAN TRUCKER; AND A YOUNGER VERSION OF GEESE HOWARD, WHOM YOU FACE AS THE LAST BOSS IF YOU BEAT THE GAME WITHOUT LOSING A ROUND.</desc>
-		<image>./downloaded_images/aof2-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./aof3.zip</path>
-		<name>ART OF FIGHTING 3 - THE PATH OF THE WARRIOR</name>
-		<desc>IN THIS THIRD AND FINAL ENTRY IN THE ART OF FIGHTING SERIES, THE STORY SHIFTS FROM RYO SAKAZAKI TO HIS BEST FRIEND AND RIVAL, ROBERT GARCIA, AS HE VENTURES INTO MEXICO TO TRY AND LOCATE FREIA LAWRENCE, A CHILDHOOD FRIEND, WHO ASKED FOR HIS HELP. HOWEVER, HE LEAVES WITHOUT THE CONSENT OF THE GARCIA FOUNDATION, WHICH SENDS AN AGENT NAMED KARMAN COLE TO GET HIM BACK. BUT NOT EVERYTHING IS AS SIMPLE AS IT LOOKS... BECAUSE ROBERT IS NOT THE ONLY ONE LOOKING FOR FREIA.
-
-ART OF FIGHTING 3: THE PATH OF THE WARRIOR FEATURES TEN PLAYABLE CHARACTERS WITH DIFFERENT FIGHTING STYLES, A COMPLETELY NEW FIGHTING SYSTEM BASED ON JOYSTICK AND BUTTON COMBINATIONS, AND INCREDIBLY DETAILED GRAPHICS AND ANIMATION.
-</desc>
-		<image>./downloaded_images/aof3-image.png</image>
-		<rating>0.65</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./bakatono.zip</path>
-		<name>BAKATONOSAMA MAHJONG MANYUUKI</name>
-		<desc>BAKATONOSAMA MAHJONG MANYUKI IS A MAHJONG GAME FOR NEO-GEO.  IS DEVELOPED BY MONOLITH COMPANY IN 1991 AND DISTRIBUTED BY SNK</desc>
-		<image>./downloaded_images/bakatono-image.png</image>
-		<rating>0.25</rating>
-		<releasedate>19911220T000000</releasedate>
-		<developer>MONOLITH</developer>
-		<publisher>SNK</publisher>
-		<genre>ASIATIC BOARD GAME</genre>
-	</game>
-	<game>
-		<path>./bangbead.zip</path>
-		<name>BANG BEAD</name>
-		<desc>BANG BEAD, KNOWN IN JAPAN AS BANG BEADS, IS A 2001 BALL-AND-PADDLE GAME DEVELOPED AND PUBLISHED BY VISCO EXCLUSIVELY FOR THE ARCADE CABINET KNOWN AS THE SNK NEO-GEO MVS HARDWARE. IT COMBINES THE GENRES OF THE MAGNAVOX ODYSSEY TENNIS GAME, ATARI'S PONG AND BREAKOUT ARCADES, AND NINTENDO'S SPITBALL SPARKY OF THE GAME &amp; WATCH SERIES. YOU CAN SELECT FROM 9 CHARACTERS AND PLAY AGAINST ANOTHER PLAYER OR THE COMPUTER. KNOCK OUT THE STARS BEHIND THE OTHER PLAYER THEN GET THE BOUNCING BALL THROUGH TO WIN THE ROUND.</desc>
-		<image>./downloaded_images/bangbead-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>VISCO</developer>
-		<publisher>VISCO</publisher>
-		<genre>SPORTS</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./bstars2.zip</path>
-		<name>BASEBALL STARS 2</name>
-		<desc>THIS FOLLOW UP TO BASEBALL STARS PROFESSIONAL FEATURES A FAST-PACED ARCADE STYLE BASEBALL WITH SIX FICTITIOUS TEAMS, EACH WITH THEIR OWN STRENGTHS AND WEAKNESSES.  THERE ARE TWO DIFFICULTIES OF PLAY: BEGINNER, WHICH AUTOMATICALLY FIELDS THE BALL FOR THE PLAYER WHILE EXCITING HAS THE PLAYER DO THE FIELD MANUALLY.  ADDITIONALLY, THERE ARE TWO MAIN MODES OF PLAY WHERE IN THE SINGLE PLAYER MODE THE PLAYER WILL COMPETE IN A FIFTEEN-TEAM TOURNAMENT OR GO HEAD-TO-HEAD AGAINST A FRIEND IN A MULTIPLAYER MODE.
-
-THE STANDARD RULES OF BASEBALL STILL APPLY, BUT IT ADDS POWER-UPS THAT THE PLAYER CAN PICK UP AND USE DURING THE GAME, SUCH AS THE ABILITY FOR THEIR PITCHER TO THROW FASTER OR THEIR BATTER TO HIT BETTER.  THEY CAN ALSO SUBSTITUTE A PLAYER DURING THE GAME, BUT ARE LIMITED TO THREE SUBSTITUTIONS PER GAME. THE GAME IS SHOWN THROUGH 2D GRAPHICS WITH COMIC-STYLE CUTSCENES TO ILLUSTRATE THE ACTION, SUCH AS DRAMATIC CATCHES AND HOME RUNS THAT WILL POP-UP DURING THE GAME.</desc>
-		<image>./downloaded_images/bstars2-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>SPORTS</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./bstars.zip</path>
-		<name>BASEBALL STARS PROFESSIONAL</name>
-		<desc>BASEBALL STARS PROFESSIONAL IS THE FOLLOW-UP TO BASEBALL STARS FOR THE NINTENDO ENTERTAINMENT SYSTEM, AND FEATURES COMIC-STYLE GRAPHICS. CHOOSE FROM A VARIETY OF TEAMS THAT INCLUDE CELESTIAL PLANETS, HEAVENLY BODIES, SHADOW DEMONS, BATTLE KNIGHTS, FABULOUS SUPERSTARS, AND MANY OTHERS. THEN SELECT THE FIELD WHERE THE GAME IS TO BE HELD: THE SNK STADIUM OR THE SNK DOME. EACH FIELD HAS THE SAME DIMENSIONS, BUT THEIR CAPACITY VARIES. THE GAME IS PLAYED THE SAME WAY AS NORMAL BASEBALL. FEATURES A VS. MODE IN WHICH TWO PLAYERS CAN PLAY AGAINST EACH OTHER.</desc>
-		<image>./downloaded_images/bstars-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>SPORTS</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./flipshot.zip</path>
-		<name>BATTLE FLIP SHOT</name>
-		<desc>BATTLE FLIP SHOT IS AN ARCADE GAME THAT MIXES ELEMENTS OF PONG WITH JAPANESE CHARACTER DESIGN.</desc>
-		<image>./downloaded_images/flipshot-image.png</image>
-		<rating>0</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>VISCO</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./blazstar.zip</path>
-		<name>BLAZING STAR</name>
-		<desc>THE UNOFFICIAL SEQUEL TO PULSTAR, BLAZING STAR IS AGAIN A HORIZONTAL-SCROLLING SHOOT-'EM-UP. ONE OR TWO PLAYERS PROCEED ALONG LEVELS, EACH WITH A BOSS ENEMY AT THE END, TRYING TO REDEEM THE HUMANKIND. THERE ARE SIX SHIPS TO CHOOSE FROM, EACH WITH ITS OWN PILOT (FOUR OF THEM FEMALES), WEAPONS AND CHARACTERISTICS OF MOVEMENT. EACH SHIP HAS ITS OWN TYPES OF SHOTS, BUT ALSO A STANDARD SHOT, CHARGED SHOT (MORE POWERFUL) AND SPLIT SHOT (A CHARGED SHOT CAN BE PARTED INTO MORE BULLETS, LOWERING THE POWER OF EACH BULLET WHILE WIDENING THE FIRE RANGE).</desc>
-		<image>./downloaded_images/blazstar-image.png</image>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>YUMEKOBO</developer>
-		<publisher>SNK</publisher>
-		<genre>ACTION</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./breakers.zip</path>
-		<name>BREAKERS</name>
-		<desc>IN BREAKERS, CHOOSE ONE OF EIGHT FIGHTERS WHO HAVE THEIR OWN MOVES AND SPECIAL ATTACKS. THERE ARE EIGHT STAGES IN THE GAME, AND EACH STAGE HAS TWO BATTLES. THE OBJECT OF EACH BATTLE IS TO DRAIN YOUR OPPONENT'S ENERGY IN ORDER TO WIN THE BATTLE. IF THERE IS A DRAW, A THIRD BATTLE TAKES PLACE. IF THE TIME LIMIT EXPIRES, THE PLAYER WITH THE LESS ENERGY LOSES THE BATTLE. ONCE YOU HAVE COMPLETED ALL EIGHT STAGES, YOU WILL FACE A OPPONENT THAT IS MUCH TOUGHER THAN PREVIOUS ONES. DIFFERENT ENDINGS AND IN-GAME DIALOG ARE VIEWED DEPENDING ON THE CHARACTER THAT YOU SELECT.</desc>
-		<image>./downloaded_images/breakers-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>VISCO</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./breakrev.zip</path>
-		<name>BREAKERS REVENGE</name>
-		<desc>8 INITIALLY SELECTABLE CHARACTERS FACE OFF TO BECOME THE TAE KWON DO MASTER! AFTER DEFEATING THE ABSOLUTELY WACKY MASTER TAEKUK, HE BECOMES SELECTABLE AS WELL TO FACE OFF AGAINST END BOSS KARATE KENJI.</desc>
-		<image>./downloaded_images/breakrev-image.png</image>
-		<rating>0.75</rating>
-		<releasedate>19980703T000000</releasedate>
-		<developer>VISCO</developer>
-		<publisher>SNK</publisher>
-		<genre>FIGHT</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./burningf.zip</path>
-		<name>BURNING FIGHT</name>
-		<desc>THE CASTELLA FAMILY FROM THE METRO CITY STARTED RUINING THE PEACEFUL CITY OF OSAKA WITH THE VIOLENT JAPANESE GROUP, "HEIWA-GUMI". TO STOP THE FIGHT, METRO POLICE DETECTIVES DISPATCHED TWO DANGEROUS CHARACTERS, DUKE AND BILLY, TO JAPAN. WITH THE SUPPORT OF THE FAMOUS JAPANESE DETECTIVE RYU, THEY DECIDED TO RUSH INTO THE ENEMY'S FORTRESS. RUTHLESS VIOLENCE IN THE NEON LIGHTS OF OSAKA. WILL THERE BE AN END TO THIS WAR?
-
-BURNING FIGHT IS A SIDE-SCROLLING STREET-FIGHTING GAME SIMILAR TO FINAL FIGHT. AS DUKE, BILLY, OR RYU, YOU MUST FIGHT YOUR WAY THROUGH THE VARIOUS LOCATIONS IN OSAKA. AT THE START OF THE GAME, YOU CAN ONLY USE YOUR FISTS TO DEAL WITH GANGS, BUT BY BY BREAKING THINGS LIKE PHONE BOOTHS AND STREET SIGNS ALONG THE WAY, YOU CAN GET NEW WEAPONS AND MORE HEALTH. AT THE END OF EACH LOCATION, YOU WILL HAVE TO DEFEAT A BOSS IN ORDER TO CONTINUE THE MISSION.</desc>
-		<image>./downloaded_images/burningf-image.png</image>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>BEAT'EM UP</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./ctomaday.zip</path>
-		<name>CAPTAIN TOMADAY</name>
-		<desc>A COMICAL VERTICALLY SCROLLING SHOOT'EM UP STARRING A MUTATED TOMATO WHO PUNCHES THE ENEMY AND CAN TRANSFORM TO OTHER WEIRD CHARACTERS.</desc>
-		<image>./downloaded_images/ctomaday-image.png</image>
-		<rating>0</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>ACTION</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./marukodq.zip</path>
-		<name>CHIBI MARUKOCHAN DELUXE QUIZ</name>
-		<desc>A JAPANESE QUIZ GAMES BASED ON A MANGA/ANIME SERIES!</desc>
-		<image>./downloaded_images/marukodq-image.png</image>
-		<rating>0</rating>
-		<releasedate>19951127T000000</releasedate>
-		<developer>TAKARA</developer>
-		<publisher>SNK</publisher>
-		<genre>QUIZ / JAPANESE</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./crsword.zip</path>
-		<name>CROSSED SWORDS</name>
-		<desc>AS A KNIGHT, YOU MUST TRAVEL THE COUNTRYSIDE FIGHTING MONSTERS AND BANDITS USING YOUR SWORD AND SHIELD. WHEN YOU ENTER COMBAT THE VIEW CHANGES TO A PSEUDO 1ST-PERSON PERSPECTIVE WHERE THE BODY OF YOUR KNIGHT IS OUTLINED SO THAT YOU CAN SEE THE CREATURES THAT YOU ARE FIGHTING. WHEN ENEMIES HAVE BEEN DEFEATED, THEY DROP MONEY AND POWER-UPS. THERE ARE SEVEN CHAPTERS IN THE GAME, AND EACH CHAPTER (EXCEPT ONE) STARTS WITH YOU ENTERING A MERCHANT'S SHOP AND BUYING WEAPONS USING THE MONEY THAT YOU HAVE COLLECTED SO FAR. THERE ARE ALSO ALTERNATE PATHS WHICH TAKE YOU TO DIFFERENT PARTS OF THE GAME. AT THE START OF THE GAME, YOU MAY CHOOSE A CHAPTER (FROM ONE TO THREE ONLY) YOU WANT TO START AT.</desc>
-		<image>./downloaded_images/crsword-image.png</image>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>BEAT'EM UP</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./cyberlip.zip</path>
 		<name>CYBER-LIP</name>
 		<desc>CYBER-LIP IS A 1-2 PLAYER SIDE-SCROLLING GAME WHERE YOU MUST FIGHT YOUR WAY THROUGH SEVERAL AREAS, AND DEFEAT A BOSS AT THE END OF EACH ONE. ALONG THE WAY, YOU CAN PICK UP A VARIETY OF WEAPONS ALONG THE WAY, AND USE THEM AGAINST THE INVADERS. BY DESTROYING CERTAIN ENEMIES, YOU RECEIVE A "CORE BOT", WHICH IS A RING THAT SURROUNDS YOU, AND WHEN THIS TOUCHES THE INVADERS, THEY ARE DESTROYED. TIME IS AGAINST YOU. WHEN IT EXPIRES, YOU LOSE A LIFE.</desc>
@@ -1115,42 +854,6 @@ WHILE COMPLETELY 2D, THE GAME USES PRE-RENDERED 3D SPRITES AND INCLUDES FULLY AN
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./quizdais.zip</path>
-		<name>QUIZ DAISOUSA SEN - THE LAST COUNT DOWN</name>
-		<desc>JAPANESE QUIZZ GAME</desc>
-		<image>./downloaded_images/quizdais-image.png</image>
-		<rating>0</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>QUIZ</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./quizkof.zip</path>
-		<name>QUIZ KING OF FIGHTERS</name>
-		<desc>JAPANESE QUIZ ON THE KING OF FIGHTERS SAGA.</desc>
-		<image>./downloaded_images/quizkof-image.png</image>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SAURUS</developer>
-		<publisher>SNK</publisher>
-		<genre>QUIZ</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./quizdai2.zip</path>
-		<name>QUIZ MEITANTEI NEO&amp;GEO - QUIZ DAISOUSA SEN PART 2</name>
-		<desc>JAPANESE QUIZ</desc>
-		<image>./downloaded_images/quizdai2-image.png</image>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>QUIZ</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./rotd.zip</path>
 		<name>RAGE OF THE DRAGONS</name>
 		<desc>RAGE OF THE DRAGONS IS AN ORIGINAL FIGHTING GAME WITH 14 SELECTABLE FIGHTERS PLUS ABUBO (SUB-BOSS, HIDDEN CHARACTER) AND JOHANN (FINAL BOSS).</desc>
@@ -1828,34 +1531,6 @@ THIS SEQUEL FEATURES ALL-NEW STAGES AND MUSIC, AND IMPROVED ANIMATION AND GRAPHI
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./sonicwi3.zip</path>
-		<name>AERO FIGHTERS 3 / SONIC WINGS 3</name>
-		<desc>AERO FIGHTERS 3 IS A VERTICALLY-SCROLLING SHOOTER IN THE SAME VEIN AS 1942 AND SIMILAR GAMES. IT SUPPORTS UP TO TWO PLAYERS AND  HAS 10 DIFFERENT AIRCRAFT TO CHOOSE FROM, EACH EQUIPPED WITH UNIQUE PRIMARY AND SECONDARY WEAPONS. POWER-UPS UPGRADE THE LOOK, POWER, SIZE AND SHAPE OF THE SHOTS. BOMBS ACTIVATE A SPECIAL POWER THAT USUALLY WIPES OFF THE ENEMIES ON THE SCREEN. THE GAME HAS A TOTAL OF 8 STAGES PLACED ON SEVERAL COUNTRIES (JAPAN, GERMANY, LIBYA, EGYPT, PACIFIC, U.S.A., ENGLAND, FRANCE, PANAMA, THAILAND, UKRAINE, ATLANTIC AND SPACE), ALL OF THEM WITH A BOSS BATTLE.</desc>
-		<image>./downloaded_images/sonicwi3-image.png</image>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>VIDEO SYSTEM</developer>
-		<publisher>SNK</publisher>
-		<genre>ACTION</genre>
-		<players>1-2</players>
-		<playcount>2</playcount>
-		<lastplayed>20171208T211933</lastplayed>
-	</game>
-	<game>
-		<path>./sonicwi2.zip</path>
-		<name>AERO FIGHTERS 2 / SONIC WINGS 2</name>
-		<desc>AERO FIGHTERS 2 IS A VERTICALLY-SCROLLING SHOOTER IN THE SAME VEIN AS 1942 AND SIMILAR GAMES. IT SUPPORTS UP TO TWO PLAYERS AND  HAS 8 DIFFERENT AIRCRAFT TO CHOOSE FROM, EACH EQUIPPED WITH UNIQUE PRIMARY AND SECONDARY WEAPONS. POWER-UPS UPGRADE THE LOOK, POWER, SIZE AND SHAPE OF THE SHOTS. BOMBS ACTIVATE A SPECIAL POWER THAT USUALLY WIPES OFF THE ENEMIES ON THE SCREEN. THE GAME HAS A TOTAL OF 10 STAGES (JAPAN, BRAZIL, ATLANTIC, U.S.A., FRANCE, AUSTRALIA, HIMALAYAS, MEXICO, HAWAII AND SPACE), ALL OF THEM WITH A BOSS BATTLE.</desc>
-		<image>./downloaded_images/sonicwi2-image.png</image>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>VIDEO SYSTEM</developer>
-		<publisher>SNK</publisher>
-		<genre>ACTION</genre>
-		<players>1-2</players>
-		<playcount>3</playcount>
-		<lastplayed>20180216T221150</lastplayed>
-	</game>
-	<game>
 		<path>./s1945p.zip</path>
 		<name>STRIKERS 1945 PLUS</name>
 		<desc>THE PLAYER CHOOSES ONE OF SIX PLANES OR CAN OPT FOR A RANDOM CHOICE. THE FIRST FOUR STAGES ARE IN RANDOM ORDER, WHILE THE LAST FOUR ARE SEQUENTIAL. PLAYERS COLLECT WEAPON POWERUPS, BOMBS, AND GOLD BARS FOR POINTS. EACH PLANE HAS A UNIQUE "SUPERSHOT" WHICH IS CHARGED BY DAMAGING ENEMIES AND FIRED BY HOLDING THEN RELEASING THE FIRE BUTTON. SUPERSHOTS CAN BE STORED, ALTHOUGH THE NUMBER VARIES FROM PLANE TO PLANE. USING A BOMB RESULTS IN A LARGE FRIENDLY FIGHTER SWOOPING ONTO THE SCREEN AND BLOCKING SHOTS WHILE RETURNING FIRE FOR A FEW SECONDS.
@@ -1870,26 +1545,6 @@ AFTER THE PLAYER BEATS THE FINAL BOSS, THE GAME STARTS AGAIN FROM THE BEGINNING,
 		<players>1-2</players>
 		<playcount>1</playcount>
 		<lastplayed>20180223T011926</lastplayed>
-	</game>
-	<game>
-		<path>./bjourney.zip</path>
-		<name>BLUE'S JOURNEY</name>
-		<desc>THE PLANET OF RAGUY WAS ONCE BEAUTIFUL AND PEACEFUL, BUT ALL HELL BROKE LOOSE WHEN IT WAS INVADED BY THE DARUMA TRIBE. THE POLLUTION STARTED TO SPREAD THROUGH THE CITY. BLUE WAS SUMMONED TO GET RID OF THE DARUMA TRIBE, AND SAVE RAGUY FROM THE DARUMA EMPIRE THAT HAS TURNED THE INHABITANTS INTO SLAVES.
-
-YOU CONTROL BLUE, WHO ONLY HAS ONE WEAPON TO DEAL WITH THE DARUMAS. YOU CAN USE HIS LEAF TO WHIP ENEMIES UPSIDE-DOWN, AND HURL THESE ENEMIES AT OTHERS. ALONG THE WAY, YOU CAN GET FLOWERS FOR USE AT THE SHOP TO BUY ITEMS THAT WILL HELP YOU ALONG THE WAY. THESE ITEMS INCLUDE FLOWER HONEY (INCREASES STAMINA), SWIM FINS (EASIER SWIMMING), LIGHT SAFE (PROTECTS ALL YOUR ITEMS), SPIKES, AND OCARINAS. LATER IN THE GAME, YOU CAN ALSO GET THE SHOPKEEPER TO SING YOU A SONG. THIS HELPS YOU BREAK CURSES THAT ARE PLACED ON YOU BY A WITCH.YOU WILL ALSO INTERACT WITH OTHER CHARACTERS ALONG THE WAY THAT CAN ALSO HELP YOU IF YOU TELL THE TRUTH.
-
-YOU EXIT EACH STAGE BY JUMPING ON A HUGE PLANT. THE HIGHER UP YOU ARE ON THIS PLANT, THE MORE POINTS YOU ARE AWARDED. EVERY TWO OR SO STAGES, YOU HAVE TO DEFEAT A BOSS BEFORE A GUY IN A DEVIL SUIT OFFERS YOU SOMETHING. YOU CAN REFUSE OR ACCEPT THE OTHER. IF YOU ACCEPT THE OFFER, YOU WILL HAVE TO PULL ONE OF FOUR STRINGS THAT WILL GIVE YOU A LIFE BALL, MORE STAMINA, 30 FLOWERS, COCOONS, OR FIVE FLOWERS.
-
-YOU ARE ON A TIME LIMIT. IF YOU RUN OUT OF TIME, A BLACK CREATURE APPEARS OUT OF NOWHERE, AND STARTS FIRING "BIRD" MISSILES AT YOU.</desc>
-		<image>./downloaded_images/bjourney-image.png</image>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>PLATFORM</genre>
-		<players>1-2</players>
-		<playcount>1</playcount>
-		<lastplayed>19800101T033926</lastplayed>
 	</game>
 	<game>
 		<path>./ssideki2.zip</path>
@@ -2075,118 +1730,8 @@ IT IS ALSO POSSIBLE TO JUMP ON ENEMIES OR PERFORM A SLIDING ATTACK.</desc>
 		<lastplayed>20180909T151526</lastplayed>
 	</game>
 	<game>
-		<path>./4play.zip</path>
-		<name>4 Player Input Test</name>
-		<image>./downloaded_images/4play.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./beast.zip</path>
-		<name>Shadow of the Beast</name>
-		<image>./downloaded_images/beast.png</image>
-		<desc>Homebrew Demo</desc>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./ironclad.zip</path>
-		<name>Choutetsu Brikin'ger - Iron Clad</name>
-		<desc>Ironclad is a side scrolling shooter developed by Saurus in 1996. Ironclad was first shown in its native MVS cartridge format at the March 1996 ACME show in Orlando, Florida. I saw and played the game at the show. We always knew therefore that at the very least, one proto was available on the MVS format. Although the game saw release on the NEOGEO CD system, it was never officially released in either the MVS or HOME cartridge formats. Ironclad was the most sought after of all the CD-protos because of its appeal to shoot 'em up fans. This was most likely why it had coincidentally caused the largest number of false claims; more then any other proto cartridge! 13 years later, in November of 2009, SNK finally released the native ROM data for the game and as a result we finally got the game and can now enjoy it forever!</desc>
-		<image>./downloaded_images/ironclad.png</image>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./cnbe.zip</path>
-		<name>Codename: Blut Engel</name>
-		<desc>Codename: Blut Engel is an insane homebrew vertical shooting game.</desc>
-		<image>./downloaded_images/cnbe.png</image>
-		<releasedate>20060119T000000</releasedate>
-		<developer>Blaster</developer>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./cndi.zip</path>
-		<name>Chip N Dale (intro Demo)</name>
-		<image>./downloaded_images/cndi.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./columnsn.zip</path>
-		<name>Columns</name>
-		<desc>The classic falling block arcade game Columns ported to the Neo Geo.</desc>
-		<image>./downloaded_images/columnsn.png</image>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Jeff Kurtz</developer>
-		<genre>Puzzle</genre>
-	</game>
-	<game>
-		<path>./cthd2003.zip</path>
-		<name>Crouching tiger hidden dragon</name>
-		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
-		<image>./downloaded_images/cthd2003.png</image>
-		<rating>0.65</rating>
-		<releasedate>20020314T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./ct2k3sp.zip</path>
-		<name>Crouching tiger hidden dragon</name>
-		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
-		<image>./downloaded_images/cthd2003.png</image>
-		<rating>0.65</rating>
-		<releasedate>20020314T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./crswd2bl.zip</path>
-		<name>Crossed Swords 2</name>
-		<desc>Crossed Swords II is a "Hack 'n Slash" action game released in 1995 by ADK exclusively for the Neo Geo CD. It is the sequel to 1991's Crossed Swords. This version is a bootleg/hack of the CD version to make it playable in the Neo Geo MVS arcade system.
-
-Crossed Swords II features the same gameplay from its predecessor (Crossed Swords on Neo Geo MVS and AES). The player is given a first-person view with a third-person silhouette/wire-frame view of the character similar to the Punch-Out!! arcade game. New to this sequel is the addition of a new button for jumping and dashing, giving the player more maneuverability and allowing him to dodge incoming attacks. By pressing the attack button after dashing the player will make a horizontal slash which stuns enemies briefly, and by pressing the attack button after jumping the player will make a powerful downward slash.
-
-The player can now choose between three characters: the Knight, who is powerful but slow, the Dancer, who is fast but weak, and the Ninja, who has balanced stats. After choosing the character, the player must choose between two game modes: "Nausizz Counterattack" is the main story mode, while "Karividu Arena" is a survival mode where the player fights various enemies consecutively. 
-
-The Story: Decades have passed since the messenger of darkness Nausizz was defeated and peace restored to the kingdom of Belkana. This peace wouldn't last forever, though, as Nausizz's demonic castle has arisen from the depths of hell and his hordes of demons once again threaten the peaceful kingdom with chaos and destruction. Three brave warriors then join together to put and end to Nausizz's reign of terror.</desc>
-		<image>./downloaded_images/crswd2bl.png</image>
-		<releasedate>19950205T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Adventure</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./ducki.zip</path>
-		<name>Duck Tales (intro Demo)</name>
-		<image>./downloaded_images/ducki.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./dwi.zip</path>
-		<name>Darkwing Duck</name>
-		<image>./downloaded_images/dwi.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
 		<path>./fswords.zip</path>
-		<name>Samurai Shodown III</name>
+		<name>Fighters Swords</name>
 		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword...but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character. The "Slash" techniques are the original moves of the most of the characters whereas the "Bust" techniques maybe the "darker" version of each character.</desc>
 		<image>./downloaded_images/fswords.png</image>
 		<rating>0.85</rating>
@@ -2208,17 +1753,10 @@ The Story: Decades have passed since the messenger of darkness Nausizz was defea
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./ghostbi.zip</path>
-		<name>Ghost Busters (intro Demo)</name>
-		<image>./downloaded_images/ghostbi.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
 		<path>./kog.zip</path>
-		<name>The King of Fighters '97</name>
+		<name>King of gladiator</name>
 		<desc>Another year, another KOF. Additions this year come in the form of slightly improved graphics and sounds, new moves and a new game mode. Gameplay is much more plot-driven, as you have middle-bosses that can change depending on what team you select. In addition, there are several special endings which are only shown when certain "Edit Team" combinations are selected. New characters include the New Face Team, the Fatal Fury Outlaw Team (featuring the KOF debut of "Blue" Mary Ryan and Ryuji Yamazaki, and the return of Billy Kane), and Kyo's pupil Shingo Yabuki. In total, The King of Fighters '97 sports 29 separate characters.</desc>
-		<image>./downloaded_images/kog.png</image>
+		<image>./downloaded_images/kog.jpg</image>
 		<rating>0.85</rating>
 		<releasedate>19970925T000000</releasedate>
 		<developer>SNK</developer>
@@ -2228,9 +1766,9 @@ The Story: Decades have passed since the messenger of darkness Nausizz was defea
 	</game>
 	<game>
 		<path>./kogplus.zip</path>
-		<name>The King of Fighters '97</name>
+		<name>King of gladiator plus</name>
 		<desc>Another year, another KOF. Additions this year come in the form of slightly improved graphics and sounds, new moves and a new game mode. Gameplay is much more plot-driven, as you have middle-bosses that can change depending on what team you select. In addition, there are several special endings which are only shown when certain "Edit Team" combinations are selected. New characters include the New Face Team, the Fatal Fury Outlaw Team (featuring the KOF debut of "Blue" Mary Ryan and Ryuji Yamazaki, and the return of Billy Kane), and Kyo's pupil Shingo Yabuki. In total, The King of Fighters '97 sports 29 separate characters.</desc>
-		<image>./downloaded_images/kog.png</image>
+		<image>./downloaded_images/kogplus.jpg</image>
 		<rating>0.85</rating>
 		<releasedate>19970925T000000</releasedate>
 		<developer>SNK</developer>
@@ -2240,16 +1778,6 @@ The Story: Decades have passed since the messenger of darkness Nausizz was defea
 	</game>
 	<game>
 		<path>./lasthope.zip</path>
-		<name>Last Hope</name>
-		<desc>An evil empire from another galaxy is heading towards Earth. Barely 24 hours beforehand, they had penetrated the last line of defense in Earth's galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of earth's fleet was destroyed during first contact. Intelligence reports six days until their arrival. Conventional weapons cannot stop them. The last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth</desc>
-		<image>./downloaded_images/lasthope.png</image>
-		<releasedate>20060710T000000</releasedate>
-		<developer>NG:DEV.TEAM</developer>
-		<publisher>NG:DEV.TEAM</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./lhcdb.zip</path>
 		<name>Last Hope</name>
 		<desc>An evil empire from another galaxy is heading towards Earth. Barely 24 hours beforehand, they had penetrated the last line of defense in Earth's galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of earth's fleet was destroyed during first contact. Intelligence reports six days until their arrival. Conventional weapons cannot stop them. The last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth</desc>
 		<image>./downloaded_images/lasthope.png</image>
@@ -2295,52 +1823,6 @@ The 'Shougi' is a Japanese chess-style game.</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./neo2500.zip</path>
-		<name>NAM-1975</name>
-		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
-		<image>./downloaded_images/neo2500.png</image>
-		<releasedate>19910701T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./neo3ddmo.zip</path>
-		<name>Neogeo 3d! Demo</name>
-		<image>./downloaded_images/neo3ddmo.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./neocstlv.zip</path>
-		<name>Neo Castlevania Demo</name>
-		<image>./downloaded_images/neocstlv.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./neodemo.zip</path>
-		<name>Neo-neo! V1.1</name>
-		<image>./downloaded_images/neodemo-image.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./neogalag.zip</path>
-		<name>Galaga Demo</name>
-		<image>./downloaded_images/neoprimo.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./neoprimo.zip</path>
-		<name>Neoprimo</name>
-		<image>./downloaded_images/neoprimo.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
 		<path>./neotet.zip</path>
 		<name>NeoGeo 2-Player Tetris</name>
 		<desc>NeoGeo 2 Player Tetris is a simple Tetris game created in 2008 using the NeoBitz dev tools.</desc>
@@ -2356,17 +1838,6 @@ The 'Shougi' is a Japanese chess-style game.</desc>
 		<image>./downloaded_images/neothndr.png</image>
 		<developer>Sebastian Mihai</developer>
 		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./neoww2.zip</path>
-		<name>NAM-1975</name>
-		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
-		<image>./downloaded_images/neoww2.png</image>
-		<releasedate>19910701T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./ngem2k.zip</path>
@@ -2385,13 +1856,6 @@ The 'Shougi' is a Japanese chess-style game.</desc>
 		<developer>RasterSoft</developer>
 	</game>
 	<game>
-		<path>./ngftdemo.zip</path>
-		<name>Ngf Transparency Demo</name>
-		<image>./downloaded_images/ngftdemo.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
 		<path>./poknight.zip</path>
 		<name>Poker Night</name>
 		<image>./downloaded_images/poknight.png</image>
@@ -2407,27 +1871,6 @@ The 'Shougi' is a Japanese chess-style game.</desc>
 		<genre>Puzzle</genre>
 	</game>
 	<game>
-		<path>./robocopi.zip</path>
-		<name>Robocop (intro Demo)</name>
-		<image>./downloaded_images/robocopi.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./spidermi.zip</path>
-		<name>Spiderman (intro Demo)</name>
-		<image>./downloaded_images/spidermi.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
-		<path>./syscheck.zip</path>
-		<name>Neo System Check</name>
-		<image>./downloaded_images/syscheck.png</image>
-		<genre></genre>
-		<players></players>
-	</game>
-	<game>
 		<path>./timesupd.zip</path>
 		<name>Time's Up</name>
 		<image>./downloaded_images/timesupd.png</image>
@@ -2437,13 +1880,6 @@ The 'Shougi' is a Japanese chess-style game.</desc>
 		<publisher>Homebrew</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./tmnti.zip</path>
-		<name>Teenage Mutant Ninja Turtles (intro Demo)</name>
-		<image>./downloaded_images/tmnti.png</image>
-		<genre></genre>
-		<players></players>
 	</game>
 	<game>
 		<path>./totc.zip</path>
@@ -2466,5 +1902,446 @@ On offense you can perform short or long passes with the A and C buttons, respec
 		<publisher>Tecmo</publisher>
 		<genre>Sports / Soccer</genre>
 		<players>1-2</players>
+	</game>
+	<game>
+		<path>./2020bb.zip</path>
+		<name>2020 SUPER BASEBALL</name>
+		<desc>IN THE YEAR 2020, BASEBALL FINALLY EVOLVED. THERE IS NO LONGER CONVENTIONAL PROFESSIONAL BASEBALL IN 2020. BASEBALL DESIGNED BY THE SUPER BASEBALL ASSOCIATION HAS BEEN VERY POPULAR AND IS THE BEST SPORT.
+
+HOWEVER, THE TRUTH IS THAT THE ASSOCIATION HAS USED A COLOSSAL SUM OF MONEY TO PROMOTE SUPER BASEBALL AS SHOW BUSINESS. THEY HAVE MANIPULATED EACH PLAYER'S ABILITY USING THE CONTROL COMPUTER TO SECRETLY DECIDE VICTORY OR DEFEAT IN EVERY GAME. THE PLAYERS WHO KNEW THIS REMOVED THE CONNECTING PARTS OF THE COMPUTER TO PLAY THEIR OWN GAME OF BASEBALL. FINALLY, A FAIR GAME IS GOING TO BE PLAYED AT CYBER EGG STADIUM.
+
+IN 2020 SUPER BASEBALL IS A FAST-PACED GAME WITH NEW RULES, WHERE YOU CAN SELECT 1 OF 12 INDIVIDUAL MEN, WOMEN, OR ROBOT PLAYERS. DURING PLAY, YOU CAN MAKE YOUR TEAM STRONGER WITH PRIZES EARNED FROM AMAZING CATCHES.
+</desc>
+		<image>./downloaded_images/2020bb-image.png</image>
+		<rating>1</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>PALLAS</developer>
+		<publisher>SNK</publisher>
+		<genre>SPORTS / BASEBALL</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T154759</lastplayed>
+	</game>
+	<game>
+		<path>./3countb.zip</path>
+		<name>3 COUNT BOUT</name>
+		<desc>3 COUNT BOUT IS A ONE-ON-ONE FIGHTING GAME. CHOOSE FROM TEN WRESTLERS WHO HAVE THEIR OWN POWER ATTACKS. THERE ARE TEN ROUNDS IN THE GAME, AND EACH ONE OF THEM HAS YOU FIGHTING OTHER WRESTLERS THAT ARE MUCH TOUGHER THAN THE PREVIOUS ONES. YOU DEFEAT EACH ONE BY BITING, KICKING, AND PERFORMING OTHER MOVES TO THE POINT WHERE THEIR DAMAGE METER IS EMPTY. BUT JUST BECAUSE IT IS EMPTY DOESN'T MEAN THAT YOU WIN. YOU HAVE TO PIN HIM FOR THE INFAMOUS-THREE COUNT. ALSO FEATURES COMPETITIVE PLAY AND TAG MATCH BATTLES.</desc>
+		<image>./downloaded_images/3countb-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>UPL</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155046</lastplayed>
+	</game>
+	<game>
+		<path>./4play.zip</path>
+		<name>4 Player Input Test</name>
+		<image>./downloaded_images/4play.png</image>
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20200827T155137</lastplayed>
+	</game>
+	<game>
+		<path>./sonicwi2.zip</path>
+		<name>AERO FIGHTERS 2 / SONIC WINGS 2</name>
+		<desc>AERO FIGHTERS 2 IS A VERTICALLY-SCROLLING SHOOTER IN THE SAME VEIN AS 1942 AND SIMILAR GAMES. IT SUPPORTS UP TO TWO PLAYERS AND  HAS 8 DIFFERENT AIRCRAFT TO CHOOSE FROM, EACH EQUIPPED WITH UNIQUE PRIMARY AND SECONDARY WEAPONS. POWER-UPS UPGRADE THE LOOK, POWER, SIZE AND SHAPE OF THE SHOTS. BOMBS ACTIVATE A SPECIAL POWER THAT USUALLY WIPES OFF THE ENEMIES ON THE SCREEN. THE GAME HAS A TOTAL OF 10 STAGES (JAPAN, BRAZIL, ATLANTIC, U.S.A., FRANCE, AUSTRALIA, HIMALAYAS, MEXICO, HAWAII AND SPACE), ALL OF THEM WITH A BOSS BATTLE.</desc>
+		<image>./downloaded_images/sonicwi2-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>VIDEO SYSTEM</developer>
+		<publisher>SNK</publisher>
+		<genre>ACTION</genre>
+		<players>1-2</players>
+		<playcount>4</playcount>
+		<lastplayed>20200827T155201</lastplayed>
+	</game>
+	<game>
+		<path>./sonicwi3.zip</path>
+		<name>AERO FIGHTERS 3 / SONIC WINGS 3</name>
+		<desc>AERO FIGHTERS 3 IS A VERTICALLY-SCROLLING SHOOTER IN THE SAME VEIN AS 1942 AND SIMILAR GAMES. IT SUPPORTS UP TO TWO PLAYERS AND  HAS 10 DIFFERENT AIRCRAFT TO CHOOSE FROM, EACH EQUIPPED WITH UNIQUE PRIMARY AND SECONDARY WEAPONS. POWER-UPS UPGRADE THE LOOK, POWER, SIZE AND SHAPE OF THE SHOTS. BOMBS ACTIVATE A SPECIAL POWER THAT USUALLY WIPES OFF THE ENEMIES ON THE SCREEN. THE GAME HAS A TOTAL OF 8 STAGES PLACED ON SEVERAL COUNTRIES (JAPAN, GERMANY, LIBYA, EGYPT, PACIFIC, U.S.A., ENGLAND, FRANCE, PANAMA, THAILAND, UKRAINE, ATLANTIC AND SPACE), ALL OF THEM WITH A BOSS BATTLE.</desc>
+		<image>./downloaded_images/sonicwi3-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>VIDEO SYSTEM</developer>
+		<publisher>SNK</publisher>
+		<genre>ACTION</genre>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20200827T155221</lastplayed>
+	</game>
+	<game>
+		<path>./aodk.zip</path>
+		<name>AGGRESSORS OF DARK KOMBAT</name>
+		<desc>AGGRESSORS OF DARK KOMBAT IS ANOTHER ONE-ON-ONE STREET FIGHTING BEAT 'EM UP FROM THE NEO-GEO'S SEEMINGLY ENDLESS LIBRARY OF FIGHTERS.
+
+IT PITS 8 FIGHTERS OF DIFFERENT STYLES AND STRENGTHS AGAINST EACH OTHER IN A TOURNAMENT TO SEE WHO'S THE TOUGHEST MOFO ON THE STREETS OF TOKYO. YOUR OBJECTIVE AS USUAL IS TO DEPLETE YOUR OPPONENT'S HEALTH BAR WITHIN THE TIME LIMIT BY USING YOUR BASIC ATTACKS AND SPECIAL MOVES (TRIGGERED BY SPECIFIC CONTROLLER MOTIONS) WHILE AVOIDING HIS MOVES AND ATTACKS.
+
+UNIQUE TO AGGRESSORS OF DARK KOMBAT IS THE COMBINATION OF TRADITIONAL SIDE-SCROLLING BEAT 'EM UP ELEMENTS, MEANING CHARACTERS CAN FREELY MOVE IN AN ISOMETRIC SPACE INSTEAD OF BEING RESTRICTED TO A SINGLE PLANE OF MOVEMENT. WEAPONS AND THROW-ABLE ITEMS ARE USUALLY THROWN INTO THE ARENA BY THE CROWDS AND YOU CAN PICK THEM UP AND WIELD THEM FOR ADDED DAMAGE. ADDITIONALLY, MATCHES ARE 1-ROUND ONLY AFFAIRS, WITH AN EXTENDED MULTI-LAYERED HEALTH BAR THAT ALLOWS FOR LONGER ROUNDS THAN USUAL.</desc>
+		<image>./downloaded_images/aodk-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155347</lastplayed>
+	</game>
+	<game>
+		<path>./alpham2.zip</path>
+		<name>ALPHA MISSION II</name>
+		<desc>THE LUNAR NIGHTMARE OF A BLOODY 200-YEAR SPACE WAR WAS THOUGHT TO BE OVER IN THE "ORIGINAL" ALPHA MISSION. BUT NOW WITH THE ADVENT OF MORE TECHNICALLY SOPHISTICATED WEAPONS, THE EVIL "FULVAR" AND HIS "SEVEN STAR ALLIANCE" HAVE RETURNED TO DESTROY ALL PLANETS THAT STAND IN THEIR WAY OF THE ULTIMATE TARGET... EARTH! NOW IN THE YEAR OF 2525! YOUR MISSION AS PILOT OF THE NEW SYD-FX FIGHTER IS TO USE EVERY WEAPON AT YOUR DISPOSAL TO RID THE GALAXY ONCE AND FOR ALL OF THE EVIL THAT NOW DOMINATES AND THREATENS EARTH. SO SUIT UP, HOLD YOUR BREATH, AND STAND READY FOR UNBELIEVABLE GRAPHICS AND STEREO SOUND THAT'LL SUCK YOU INTO THE FAR REACHES OF DEEP, DARK INNER SPACE. BE PREPARED... YOU MAY NEVER COME BACK!</desc>
+		<image>./downloaded_images/alpham2-image.png</image>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>ACTION</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155410</lastplayed>
+	</game>
+	<game>
+		<path>./androdun.zip</path>
+		<name>ANDRO DUNOS</name>
+		<desc>THE INVASION OF AN UNKNOWN LIFE SOURCE IS GETTING WORSE. NOBODY KNOWS IF THE DEFENSIVE LINE OR THE HEART OF THE ENEMY BASE IS RUINED FIRST. WITH THE PEOPLE'S HOPE, THE MOST ADVANCED FIGHTER WILL BE DISPATCHED INTO MULTI-SCROLLING SPACE.
+
+FIGHT YOUR WAY THROUGH SEVEN STAGES IN THIS HORIZONTAL-SCROLLING GAME, AND DEFEAT A BOSS AT THE END OF EACH ONE. YOU START THE GAME WITH FOUR MAIN WEAPONS, WHICH YOU CAN SWITCH FROM WITH THE CLICK OF A BUTTON. SOME OF THESE WEAPONS ARE MORE POWERFUL THAN OTHERS. YOU CAN ALSO FIRE OFF A CHARGED SHOT IF YOUR MAIN WEAPON LEVEL IS TWO OR GREATER, SIMPLY BY HOLDING DOWN THE FIRE BUTTON FOR ABOUT TWO SECONDS. USING CHARGED SHOTS CAN DO MORE DAMAGE TO AN ENEMY SHIP. IF YOU HAPPEN TO DIE, YOU WILL LOSE ONE POWER LEVEL FROM ALL FOUR WEAPONS. IF ALL YOUR LIVES ARE LOST AND ARE FORCED TO CONTINUE, YOU WILL START AGAIN WITH YOUR MAIN WEAPON ON THE SECOND POWER LEVEL AND ALL THREE SUB-WEAPONS ON THE FIRST POWER LEVEL.</desc>
+		<image>./downloaded_images/androdun-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>VISCO</developer>
+		<publisher>SNK</publisher>
+		<genre>ACTION</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155434</lastplayed>
+	</game>
+	<game>
+		<path>./aof.zip</path>
+		<name>ART OF FIGHTING</name>
+		<desc>THE STORYLINE OF ART OF FIGHTING TAKES PLACE IN 1978. RYO SAKAZAKI AND ROBERT GARCIA SET OUT TO FIND RYO'S SISTER, YURI, WHO WAS KIDNAPPED BY MR. BIG. MR. BIG TOOK YURI TO ENTICE TAKUMA SAKAZAKI, RYO'S FATHER AND ORIGINATOR OF KYOKUGEN KARATE, AND ALSO BECAUSE RYO REFUSED TO WORK FOR BIG. AFTER RYO &amp; ROBERT DEFEAT MR. BIG, THEY FACE THE ENIGMATIC MR. KARATE. ART OF FIGHTING'S STORY ENDS WITH A CLIFF-HANGER; YURI IS ABOUT TO DISCLOSE THE TRUE IDENTITY OF MR. KARATE AS THEIR FATHER TAKUMA.</desc>
+		<image>./downloaded_images/aof-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155455</lastplayed>
+	</game>
+	<game>
+		<path>./aof2.zip</path>
+		<name>ART OF FIGHTING 2</name>
+		<desc>IN THIS SEQUEL TO THE ORIGINAL ART OF FIGHTING, AND PREQUEL TO THE ORIGINAL FATAL FURY, WE LEARN THAT MR. KARATE, THE FINAL BOSS OF THE ORIGINAL GAME, BEHIND THE MASK, IS REALLY TAKUMA SAKAZAKI, RYO AND YURI'S FATHER, THAT TAKUMA WAS BEING USED BY GEESE HOWARD FOR HIS OWN EVIL INTENTIONS, AND THAT MR. BIG WAS THE ONE WHO HAD ORIGINALLY KIDNAPPED YURI.
+
+MANY OF THE PROBLEMS THAT EXISTED IN THE FIRST GAME HAVE BEEN FIXED IN THIS INSTALLMENT (IT IS EASIER TO EXECUTE SPECIAL MOVES, YOU NO LONGER HAVE ONLY RYO OR ROBERT TO CHOOSE FROM IN 1 PLAYER MODE, ETC.).
+
+THE ENTIRE CAST FROM THE FIRST ART OF FIGHTING IS HERE (WITH THE EXCEPTIONS OF TODO AND MR. KARATE), ALONG WITH A FEW NEW CHARACTERS: TAKUMA SAKAZAKI, RYO AND YURI'S FATHER; YURI SAKAZAKI, TAKUMA'S DAUGHTER AND RYO'S SISTER; EIJI KISARAGI, A SWORN ENEMY OF THE SAKAZAKIS; TEMJIN, A MONGOLIAN TRUCKER; AND A YOUNGER VERSION OF GEESE HOWARD, WHOM YOU FACE AS THE LAST BOSS IF YOU BEAT THE GAME WITHOUT LOSING A ROUND.</desc>
+		<image>./downloaded_images/aof2-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155529</lastplayed>
+	</game>
+	<game>
+		<path>./aof3.zip</path>
+		<name>ART OF FIGHTING 3 - THE PATH OF THE WARRIOR</name>
+		<desc>IN THIS THIRD AND FINAL ENTRY IN THE ART OF FIGHTING SERIES, THE STORY SHIFTS FROM RYO SAKAZAKI TO HIS BEST FRIEND AND RIVAL, ROBERT GARCIA, AS HE VENTURES INTO MEXICO TO TRY AND LOCATE FREIA LAWRENCE, A CHILDHOOD FRIEND, WHO ASKED FOR HIS HELP. HOWEVER, HE LEAVES WITHOUT THE CONSENT OF THE GARCIA FOUNDATION, WHICH SENDS AN AGENT NAMED KARMAN COLE TO GET HIM BACK. BUT NOT EVERYTHING IS AS SIMPLE AS IT LOOKS... BECAUSE ROBERT IS NOT THE ONLY ONE LOOKING FOR FREIA.
+
+ART OF FIGHTING 3: THE PATH OF THE WARRIOR FEATURES TEN PLAYABLE CHARACTERS WITH DIFFERENT FIGHTING STYLES, A COMPLETELY NEW FIGHTING SYSTEM BASED ON JOYSTICK AND BUTTON COMBINATIONS, AND INCREDIBLY DETAILED GRAPHICS AND ANIMATION.
+</desc>
+		<image>./downloaded_images/aof3-image.png</image>
+		<rating>0.65</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155555</lastplayed>
+	</game>
+	<game>
+		<path>./bakatono.zip</path>
+		<name>BAKATONOSAMA MAHJONG MANYUUKI</name>
+		<desc>BAKATONOSAMA MAHJONG MANYUKI IS A MAHJONG GAME FOR NEO-GEO.  IS DEVELOPED BY MONOLITH COMPANY IN 1991 AND DISTRIBUTED BY SNK</desc>
+		<image>./downloaded_images/bakatono-image.png</image>
+		<rating>0.25</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>MONOLITH</developer>
+		<publisher>SNK</publisher>
+		<genre>ASIATIC BOARD GAME</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155702</lastplayed>
+	</game>
+	<game>
+		<path>./bangbead.zip</path>
+		<name>BANG BEAD</name>
+		<desc>BANG BEAD, KNOWN IN JAPAN AS BANG BEADS, IS A 2001 BALL-AND-PADDLE GAME DEVELOPED AND PUBLISHED BY VISCO EXCLUSIVELY FOR THE ARCADE CABINET KNOWN AS THE SNK NEO-GEO MVS HARDWARE. IT COMBINES THE GENRES OF THE MAGNAVOX ODYSSEY TENNIS GAME, ATARI'S PONG AND BREAKOUT ARCADES, AND NINTENDO'S SPITBALL SPARKY OF THE GAME &amp; WATCH SERIES. YOU CAN SELECT FROM 9 CHARACTERS AND PLAY AGAINST ANOTHER PLAYER OR THE COMPUTER. KNOCK OUT THE STARS BEHIND THE OTHER PLAYER THEN GET THE BOUNCING BALL THROUGH TO WIN THE ROUND.</desc>
+		<image>./downloaded_images/bangbead-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>VISCO</developer>
+		<publisher>VISCO</publisher>
+		<genre>SPORTS</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155732</lastplayed>
+	</game>
+	<game>
+		<path>./bstars2.zip</path>
+		<name>BASEBALL STARS 2</name>
+		<desc>THIS FOLLOW UP TO BASEBALL STARS PROFESSIONAL FEATURES A FAST-PACED ARCADE STYLE BASEBALL WITH SIX FICTITIOUS TEAMS, EACH WITH THEIR OWN STRENGTHS AND WEAKNESSES.  THERE ARE TWO DIFFICULTIES OF PLAY: BEGINNER, WHICH AUTOMATICALLY FIELDS THE BALL FOR THE PLAYER WHILE EXCITING HAS THE PLAYER DO THE FIELD MANUALLY.  ADDITIONALLY, THERE ARE TWO MAIN MODES OF PLAY WHERE IN THE SINGLE PLAYER MODE THE PLAYER WILL COMPETE IN A FIFTEEN-TEAM TOURNAMENT OR GO HEAD-TO-HEAD AGAINST A FRIEND IN A MULTIPLAYER MODE.
+
+THE STANDARD RULES OF BASEBALL STILL APPLY, BUT IT ADDS POWER-UPS THAT THE PLAYER CAN PICK UP AND USE DURING THE GAME, SUCH AS THE ABILITY FOR THEIR PITCHER TO THROW FASTER OR THEIR BATTER TO HIT BETTER.  THEY CAN ALSO SUBSTITUTE A PLAYER DURING THE GAME, BUT ARE LIMITED TO THREE SUBSTITUTIONS PER GAME. THE GAME IS SHOWN THROUGH 2D GRAPHICS WITH COMIC-STYLE CUTSCENES TO ILLUSTRATE THE ACTION, SUCH AS DRAMATIC CATCHES AND HOME RUNS THAT WILL POP-UP DURING THE GAME.</desc>
+		<image>./downloaded_images/bstars2-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>SPORTS</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155757</lastplayed>
+	</game>
+	<game>
+		<path>./bstars.zip</path>
+		<name>BASEBALL STARS PROFESSIONAL</name>
+		<desc>BASEBALL STARS PROFESSIONAL IS THE FOLLOW-UP TO BASEBALL STARS FOR THE NINTENDO ENTERTAINMENT SYSTEM, AND FEATURES COMIC-STYLE GRAPHICS. CHOOSE FROM A VARIETY OF TEAMS THAT INCLUDE CELESTIAL PLANETS, HEAVENLY BODIES, SHADOW DEMONS, BATTLE KNIGHTS, FABULOUS SUPERSTARS, AND MANY OTHERS. THEN SELECT THE FIELD WHERE THE GAME IS TO BE HELD: THE SNK STADIUM OR THE SNK DOME. EACH FIELD HAS THE SAME DIMENSIONS, BUT THEIR CAPACITY VARIES. THE GAME IS PLAYED THE SAME WAY AS NORMAL BASEBALL. FEATURES A VS. MODE IN WHICH TWO PLAYERS CAN PLAY AGAINST EACH OTHER.</desc>
+		<image>./downloaded_images/bstars-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>SPORTS</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T155858</lastplayed>
+	</game>
+	<game>
+		<path>./flipshot.zip</path>
+		<name>BATTLE FLIP SHOT</name>
+		<desc>BATTLE FLIP SHOT IS AN ARCADE GAME THAT MIXES ELEMENTS OF PONG WITH JAPANESE CHARACTER DESIGN.</desc>
+		<image>./downloaded_images/flipshot-image.png</image>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>VISCO</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160010</lastplayed>
+	</game>
+	<game>
+		<path>./blazstar.zip</path>
+		<name>BLAZING STAR</name>
+		<desc>THE UNOFFICIAL SEQUEL TO PULSTAR, BLAZING STAR IS AGAIN A HORIZONTAL-SCROLLING SHOOT-'EM-UP. ONE OR TWO PLAYERS PROCEED ALONG LEVELS, EACH WITH A BOSS ENEMY AT THE END, TRYING TO REDEEM THE HUMANKIND. THERE ARE SIX SHIPS TO CHOOSE FROM, EACH WITH ITS OWN PILOT (FOUR OF THEM FEMALES), WEAPONS AND CHARACTERISTICS OF MOVEMENT. EACH SHIP HAS ITS OWN TYPES OF SHOTS, BUT ALSO A STANDARD SHOT, CHARGED SHOT (MORE POWERFUL) AND SPLIT SHOT (A CHARGED SHOT CAN BE PARTED INTO MORE BULLETS, LOWERING THE POWER OF EACH BULLET WHILE WIDENING THE FIRE RANGE).</desc>
+		<image>./downloaded_images/blazstar-image.png</image>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>YUMEKOBO</developer>
+		<publisher>SNK</publisher>
+		<genre>ACTION</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160055</lastplayed>
+	</game>
+	<game>
+		<path>./bjourney.zip</path>
+		<name>BLUE'S JOURNEY</name>
+		<desc>THE PLANET OF RAGUY WAS ONCE BEAUTIFUL AND PEACEFUL, BUT ALL HELL BROKE LOOSE WHEN IT WAS INVADED BY THE DARUMA TRIBE. THE POLLUTION STARTED TO SPREAD THROUGH THE CITY. BLUE WAS SUMMONED TO GET RID OF THE DARUMA TRIBE, AND SAVE RAGUY FROM THE DARUMA EMPIRE THAT HAS TURNED THE INHABITANTS INTO SLAVES.
+
+YOU CONTROL BLUE, WHO ONLY HAS ONE WEAPON TO DEAL WITH THE DARUMAS. YOU CAN USE HIS LEAF TO WHIP ENEMIES UPSIDE-DOWN, AND HURL THESE ENEMIES AT OTHERS. ALONG THE WAY, YOU CAN GET FLOWERS FOR USE AT THE SHOP TO BUY ITEMS THAT WILL HELP YOU ALONG THE WAY. THESE ITEMS INCLUDE FLOWER HONEY (INCREASES STAMINA), SWIM FINS (EASIER SWIMMING), LIGHT SAFE (PROTECTS ALL YOUR ITEMS), SPIKES, AND OCARINAS. LATER IN THE GAME, YOU CAN ALSO GET THE SHOPKEEPER TO SING YOU A SONG. THIS HELPS YOU BREAK CURSES THAT ARE PLACED ON YOU BY A WITCH.YOU WILL ALSO INTERACT WITH OTHER CHARACTERS ALONG THE WAY THAT CAN ALSO HELP YOU IF YOU TELL THE TRUTH.
+
+YOU EXIT EACH STAGE BY JUMPING ON A HUGE PLANT. THE HIGHER UP YOU ARE ON THIS PLANT, THE MORE POINTS YOU ARE AWARDED. EVERY TWO OR SO STAGES, YOU HAVE TO DEFEAT A BOSS BEFORE A GUY IN A DEVIL SUIT OFFERS YOU SOMETHING. YOU CAN REFUSE OR ACCEPT THE OTHER. IF YOU ACCEPT THE OFFER, YOU WILL HAVE TO PULL ONE OF FOUR STRINGS THAT WILL GIVE YOU A LIFE BALL, MORE STAMINA, 30 FLOWERS, COCOONS, OR FIVE FLOWERS.
+
+YOU ARE ON A TIME LIMIT. IF YOU RUN OUT OF TIME, A BLACK CREATURE APPEARS OUT OF NOWHERE, AND STARTS FIRING "BIRD" MISSILES AT YOU.</desc>
+		<image>./downloaded_images/bjourney-image.png</image>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>PLATFORM</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20200827T160148</lastplayed>
+	</game>
+	<game>
+		<path>./breakers.zip</path>
+		<name>BREAKERS</name>
+		<desc>IN BREAKERS, CHOOSE ONE OF EIGHT FIGHTERS WHO HAVE THEIR OWN MOVES AND SPECIAL ATTACKS. THERE ARE EIGHT STAGES IN THE GAME, AND EACH STAGE HAS TWO BATTLES. THE OBJECT OF EACH BATTLE IS TO DRAIN YOUR OPPONENT'S ENERGY IN ORDER TO WIN THE BATTLE. IF THERE IS A DRAW, A THIRD BATTLE TAKES PLACE. IF THE TIME LIMIT EXPIRES, THE PLAYER WITH THE LESS ENERGY LOSES THE BATTLE. ONCE YOU HAVE COMPLETED ALL EIGHT STAGES, YOU WILL FACE A OPPONENT THAT IS MUCH TOUGHER THAN PREVIOUS ONES. DIFFERENT ENDINGS AND IN-GAME DIALOG ARE VIEWED DEPENDING ON THE CHARACTER THAT YOU SELECT.</desc>
+		<image>./downloaded_images/breakers-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>VISCO</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160222</lastplayed>
+	</game>
+	<game>
+		<path>./breakrev.zip</path>
+		<name>BREAKERS REVENGE</name>
+		<desc>8 INITIALLY SELECTABLE CHARACTERS FACE OFF TO BECOME THE TAE KWON DO MASTER! AFTER DEFEATING THE ABSOLUTELY WACKY MASTER TAEKUK, HE BECOMES SELECTABLE AS WELL TO FACE OFF AGAINST END BOSS KARATE KENJI.</desc>
+		<image>./downloaded_images/breakrev-image.png</image>
+		<rating>0.75</rating>
+		<releasedate>19980703T000000</releasedate>
+		<developer>VISCO</developer>
+		<publisher>SNK</publisher>
+		<genre>FIGHT</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160256</lastplayed>
+	</game>
+	<game>
+		<path>./burningf.zip</path>
+		<name>BURNING FIGHT</name>
+		<desc>THE CASTELLA FAMILY FROM THE METRO CITY STARTED RUINING THE PEACEFUL CITY OF OSAKA WITH THE VIOLENT JAPANESE GROUP, "HEIWA-GUMI". TO STOP THE FIGHT, METRO POLICE DETECTIVES DISPATCHED TWO DANGEROUS CHARACTERS, DUKE AND BILLY, TO JAPAN. WITH THE SUPPORT OF THE FAMOUS JAPANESE DETECTIVE RYU, THEY DECIDED TO RUSH INTO THE ENEMY'S FORTRESS. RUTHLESS VIOLENCE IN THE NEON LIGHTS OF OSAKA. WILL THERE BE AN END TO THIS WAR?
+
+BURNING FIGHT IS A SIDE-SCROLLING STREET-FIGHTING GAME SIMILAR TO FINAL FIGHT. AS DUKE, BILLY, OR RYU, YOU MUST FIGHT YOUR WAY THROUGH THE VARIOUS LOCATIONS IN OSAKA. AT THE START OF THE GAME, YOU CAN ONLY USE YOUR FISTS TO DEAL WITH GANGS, BUT BY BY BREAKING THINGS LIKE PHONE BOOTHS AND STREET SIGNS ALONG THE WAY, YOU CAN GET NEW WEAPONS AND MORE HEALTH. AT THE END OF EACH LOCATION, YOU WILL HAVE TO DEFEAT A BOSS IN ORDER TO CONTINUE THE MISSION.</desc>
+		<image>./downloaded_images/burningf-image.png</image>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>BEAT'EM UP</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160319</lastplayed>
+	</game>
+	<game>
+		<path>./ctomaday.zip</path>
+		<name>CAPTAIN TOMADAY</name>
+		<desc>A COMICAL VERTICALLY SCROLLING SHOOT'EM UP STARRING A MUTATED TOMATO WHO PUNCHES THE ENEMY AND CAN TRANSFORM TO OTHER WEIRD CHARACTERS.</desc>
+		<image>./downloaded_images/ctomaday-image.png</image>
+		<rating>0</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>ACTION</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160341</lastplayed>
+	</game>
+	<game>
+		<path>./ironclad.zip</path>
+		<name>Choutetsu Brikin'ger - Iron Clad</name>
+		<desc>Ironclad is a side scrolling shooter developed by Saurus in 1996. Ironclad was first shown in its native MVS cartridge format at the March 1996 ACME show in Orlando, Florida. I saw and played the game at the show. We always knew therefore that at the very least, one proto was available on the MVS format. Although the game saw release on the NEOGEO CD system, it was never officially released in either the MVS or HOME cartridge formats. Ironclad was the most sought after of all the CD-protos because of its appeal to shoot 'em up fans. This was most likely why it had coincidentally caused the largest number of false claims; more then any other proto cartridge! 13 years later, in November of 2009, SNK finally released the native ROM data for the game and as a result we finally got the game and can now enjoy it forever!</desc>
+		<image>./downloaded_images/ironclad.png</image>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160643</lastplayed>
+	</game>
+	<game>
+		<path>./cnbe.zip</path>
+		<name>Codename: Blut Engel</name>
+		<desc>Codename: Blut Engel is an insane homebrew vertical shooting game.</desc>
+		<image>./downloaded_images/cnbe.png</image>
+		<releasedate>20060119T000000</releasedate>
+		<developer>Blaster</developer>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160726</lastplayed>
+	</game>
+	<game>
+		<path>./columnsn.zip</path>
+		<name>Columns</name>
+		<desc>The classic falling block arcade game Columns ported to the Neo Geo.</desc>
+		<image>./downloaded_images/columnsn.png</image>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Jeff Kurtz</developer>
+		<genre>Puzzle</genre>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160814</lastplayed>
+	</game>
+	<game>
+		<path>./crsword.zip</path>
+		<name>CROSSED SWORDS</name>
+		<desc>AS A KNIGHT, YOU MUST TRAVEL THE COUNTRYSIDE FIGHTING MONSTERS AND BANDITS USING YOUR SWORD AND SHIELD. WHEN YOU ENTER COMBAT THE VIEW CHANGES TO A PSEUDO 1ST-PERSON PERSPECTIVE WHERE THE BODY OF YOUR KNIGHT IS OUTLINED SO THAT YOU CAN SEE THE CREATURES THAT YOU ARE FIGHTING. WHEN ENEMIES HAVE BEEN DEFEATED, THEY DROP MONEY AND POWER-UPS. THERE ARE SEVEN CHAPTERS IN THE GAME, AND EACH CHAPTER (EXCEPT ONE) STARTS WITH YOU ENTERING A MERCHANT'S SHOP AND BUYING WEAPONS USING THE MONEY THAT YOU HAVE COLLECTED SO FAR. THERE ARE ALSO ALTERNATE PATHS WHICH TAKE YOU TO DIFFERENT PARTS OF THE GAME. AT THE START OF THE GAME, YOU MAY CHOOSE A CHAPTER (FROM ONE TO THREE ONLY) YOU WANT TO START AT.</desc>
+		<image>./downloaded_images/crsword-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>BEAT'EM UP</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160903</lastplayed>
+	</game>
+	<game>
+		<path>./crswd2bl.zip</path>
+		<name>Crossed Swords 2</name>
+		<desc>Crossed Swords II is a "Hack 'n Slash" action game released in 1995 by ADK exclusively for the Neo Geo CD. It is the sequel to 1991's Crossed Swords. This version is a bootleg/hack of the CD version to make it playable in the Neo Geo MVS arcade system.
+
+Crossed Swords II features the same gameplay from its predecessor (Crossed Swords on Neo Geo MVS and AES). The player is given a first-person view with a third-person silhouette/wire-frame view of the character similar to the Punch-Out!! arcade game. New to this sequel is the addition of a new button for jumping and dashing, giving the player more maneuverability and allowing him to dodge incoming attacks. By pressing the attack button after dashing the player will make a horizontal slash which stuns enemies briefly, and by pressing the attack button after jumping the player will make a powerful downward slash.
+
+The player can now choose between three characters: the Knight, who is powerful but slow, the Dancer, who is fast but weak, and the Ninja, who has balanced stats. After choosing the character, the player must choose between two game modes: "Nausizz Counterattack" is the main story mode, while "Karividu Arena" is a survival mode where the player fights various enemies consecutively. 
+
+The Story: Decades have passed since the messenger of darkness Nausizz was defeated and peace restored to the kingdom of Belkana. This peace wouldn't last forever, though, as Nausizz's demonic castle has arisen from the depths of hell and his hordes of demons once again threaten the peaceful kingdom with chaos and destruction. Three brave warriors then join together to put and end to Nausizz's reign of terror.</desc>
+		<image>./downloaded_images/crswd2bl.png</image>
+		<releasedate>19950205T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T160959</lastplayed>
+	</game>
+	<game>
+		<path>./ct2k3sp.zip</path>
+		<name>Crouching Tiger Hidden Dragon 2003 Super Plus</name>
+		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
+		<image>./downloaded_images/cthd2003sp.png</image>
+		<rating>0.65</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T161140</lastplayed>
+	</game>
+	<game>
+		<path>./cthd2003.zip</path>
+		<name>Crouching tiger hidden dragon</name>
+		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
+		<image>./downloaded_images/cthd2003.png</image>
+		<rating>0.65</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<playcount>1</playcount>
+		<lastplayed>20200827T161958</lastplayed>
+	</game>
+	<game>
+		<path>./marukodq.zip</path>
+		<name>CHIBI MARUKOCHAN DELUXE QUIZ</name>
+		<desc>A JAPANESE QUIZ GAMES BASED ON A MANGA/ANIME SERIES!</desc>
+		<image>./downloaded_images/marukodq-image.png</image>
+		<rating>0</rating>
+		<releasedate>19951127T000000</releasedate>
+		<developer>TAKARA</developer>
+		<publisher>SNK</publisher>
+		<genre>QUIZ / JAPANESE</genre>
+		<players>1-2</players>
+		<playcount>2</playcount>
+		<lastplayed>20200827T212228</lastplayed>
 	</game>
 </gameList>
