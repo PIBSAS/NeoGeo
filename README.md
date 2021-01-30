@@ -1,4 +1,3 @@
 # NeoGeo
 
-![NeoGeo Logo]
-(/neogeomvs.png)
+![NeoGeo Logo](/neogeomvs.png)
