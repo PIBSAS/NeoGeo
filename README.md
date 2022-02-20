@@ -16,6 +16,16 @@ Password: `recalboxroot`
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-recalbox.sh | bash
 ```
+
+# RetroPie
+Salir de EmulationStation con `Start` opcion `Quit Emulationstation` . Una vez en la Terminal escribir:
+
+# Type:
+```
+curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo.sh | bash
+```
+En ambos Sistemas recomiendo usar una conexion Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexion al mminimo.
+
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
 
