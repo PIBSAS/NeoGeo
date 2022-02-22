@@ -4,8 +4,8 @@
 
 
 # Recalbox Electron
-Instalacion facil:
-Salimos con `F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT+F2` e iniciamos sesion:
+Instalación fácil:
+Salimos con `F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT+F2` e iniciamos sesión:
 
 # Login:
 User:`root`
@@ -18,7 +18,7 @@ curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-recal
 ```
 
 # RetroPie
-Salir de EmulationStation con `Start` opcion `Quit Emulationstation` . Una vez en la Terminal escribir:
+Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez en la Terminal escribir:
 
 # Type:
 ```
@@ -26,7 +26,7 @@ curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo.sh | 
 ```
 
 # Batocera
-Coneectarse por `SSH`
+Conectarse por `SSH`
 
 # Login:
 User:`root`
@@ -38,7 +38,7 @@ Password: `linux`
 curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-batocera.sh | bash
 ```
 
-En todos los Sistemas se recomienda usar una conexion Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexion al mminimo.
+En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexión al mínimo.
 
 # Tutorial: Retroconsolas
 https://sites.google.com/view/raspberrypibuenosaires/retro-consolas
