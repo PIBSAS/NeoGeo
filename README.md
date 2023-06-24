@@ -4,9 +4,9 @@
 
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_6.svg)](https://cafecito.app/lucianoraspberrypi)
 
-# Recalbox Electron
+# Recalbox Electron-Pulstar
 Instalación fácil:
-Salimos con `F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT+F2` e iniciamos sesión:
+Salimos con `ALT + F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT + F2` e iniciamos sesión:
 
 # Login:
 User:`root`
@@ -35,6 +35,14 @@ User:`root`
 Password: `linux`
 
 # Type:
+```
+curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-batocera.sh | bash
+```
+
+Or open the Terminal with `Ctrl + Alt + F3` -- Abrimos una Terminal con Ctrl + Alt + F3:
+
+# Type:
+
 ```
 curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-batocera.sh | bash
 ```
