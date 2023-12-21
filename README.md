@@ -14,7 +14,7 @@ Password: `recalboxroot`
 
 # Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/recalbox.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recalbox.sh | bash
 ```
 
 # RetroPie
@@ -22,7 +22,7 @@ Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez 
 
 # Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/retropie.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie.sh | bash
 ```
 
 # Batocera
@@ -35,7 +35,7 @@ Password: `linux`
 
 # Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/batocera.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/batocera.sh | bash
 ```
 
 Or open the Terminal with `Ctrl + Alt + F3` -- Abrimos una Terminal con Ctrl + Alt + F3:
@@ -43,7 +43,7 @@ Or open the Terminal with `Ctrl + Alt + F3` -- Abrimos una Terminal con Ctrl + A
 # Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/batocera.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/batocera.sh | bash
 ```
 
 En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexión al mínimo.
@@ -51,10 +51,10 @@ En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede 
 <h1 align="center"> Invite a Coffee</h1>
 <p align="center">
 <a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
-<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="40" height="50">
+<img src="https://raw.githubusercontent.com/PIBSAS/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="40" height="50">
 </a>
 <a href="https://link.mercadopago.com.ar/raspberrypibsas">
-<img src="https://raw.githubusercontent.com/Luciano2018/MiPiTV/master/MercadoPago.png" alt="Invite a Coffee" width="40" height="50">
+<img src="https://raw.githubusercontent.com/PIBSAS/MiPiTV/master/MercadoPago.png" alt="Invite a Coffee" width="40" height="50">
 </a>
 </p>
 
