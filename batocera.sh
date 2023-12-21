@@ -10,7 +10,7 @@ echo "Getting Read and Write system"
 mount -o remount,rw /
 mount -o remount,rw /boot
 echo
-RUTA=https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/
+RUTA=https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/
 echo
 echo "Clean"
 echo
