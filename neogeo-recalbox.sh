@@ -1,6 +1,6 @@
 #!/bin/bash
 ###########################################################################
-# Repositorio: roms
+# Repositorio: NeoGeo
 # Por: Raspberry Pi Buenos Aires (https://sites.google.com/view/raspberrypibuenosaires/)
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
