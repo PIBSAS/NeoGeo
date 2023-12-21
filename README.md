@@ -3,7 +3,7 @@
 ![NeoGeo Logo](/neogeomvs.png)
 
 
-# Recalbox Electron-Pulstar
+# Recalbox
 Instalación fácil:
 Salimos con `ALT + F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT + F2` e iniciamos sesión:
 
@@ -14,7 +14,7 @@ Password: `recalboxroot`
 
 # Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-recalbox.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/recalbox.sh | bash
 ```
 
 # RetroPie
@@ -22,7 +22,7 @@ Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez 
 
 # Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/retropie.sh | bash
 ```
 
 # Batocera
@@ -35,7 +35,7 @@ Password: `linux`
 
 # Type:
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-batocera.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/batocera.sh | bash
 ```
 
 Or open the Terminal with `Ctrl + Alt + F3` -- Abrimos una Terminal con Ctrl + Alt + F3:
@@ -43,7 +43,7 @@ Or open the Terminal with `Ctrl + Alt + F3` -- Abrimos una Terminal con Ctrl + A
 # Type:
 
 ```
-curl -sSL https://raw.githubusercontent.com/Luciano2018/roms/master/neogeo-batocera.sh | bash
+curl -sSL https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/batocera.sh | bash
 ```
 
 En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexión al mínimo.
