@@ -6,7 +6,7 @@
 ###########################################################################
 cd
 echo
-RUTA=https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/
+RUTA=https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/
 echo
 echo "Clean"
 echo
