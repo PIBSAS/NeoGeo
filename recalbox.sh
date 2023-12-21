@@ -9,7 +9,7 @@ echo "Obteniendo permisos de escritura"
 echo "Getting Read and Write system"
 mount -o remount,rw /
 mount -o remount,rw /boot
-RUTA=https://raw.githubusercontent.com/Luciano2018/NeoGeo/master/
+RUTA=https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/
 RUTA_ARCH=https://archive.org/download/RaspberryPiBuenosAiresNeoGeoRecalbox/
 echo
 echo
