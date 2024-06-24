@@ -271,7 +271,6 @@ wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/magdrop3.zip
 wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/maglord.zip
 wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/mahretsu.zip
 wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/matrim.zip
-wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/media
 wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/miexchng.zip
 wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/minasan.zip
 wget -P RetroPie/roms/neogeo/ ${RUTA}neogeo/moshougi.zip
