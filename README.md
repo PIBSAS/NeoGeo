@@ -25,6 +25,11 @@ Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez 
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie.sh | bash
 ```
 
+# Roms only Type:
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie_roms_only.sh | bash
+```
+
 # Batocera
 Conectarse por `SSH`
 
