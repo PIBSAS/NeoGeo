@@ -1,7 +1,7 @@
 #!/bin/bash
 ###########################################################################
 # Repositorio: NeoGeo
-# Por: Raspberry Pi Buenos Aires (https://sites.google.com/view/raspberrypibuenosaires/)
+# Por: Luciano's Tech (https://sites.google.com/view/lucianostech)
 # License: http://creativecommons.org/licenses/by-sa/4.0/
 ###########################################################################
 cd
