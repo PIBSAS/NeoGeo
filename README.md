@@ -19,7 +19,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recalbox.sh | b
 
 # Roms only Type:
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_roms_only.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_only_roms.sh | bash
 ```
 
 
@@ -33,7 +33,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie.sh | b
 
 # Roms only Type:
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie_roms_only.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retro_only_roms.sh | bash
 ```
 
 # Batocera
@@ -59,7 +59,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/batocera.sh | b
 
 # Roms only Type:
 ```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/bato_roms_only.sh | bash
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/bato_only_roms.sh | bash
 ```
 
 En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexión al mínimo.
