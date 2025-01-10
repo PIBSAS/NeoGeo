@@ -17,6 +17,12 @@ Password: `recalboxroot`
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recalbox.sh | bash
 ```
 
+# Roms only Type:
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_roms_only.sh | bash
+```
+
+
 # RetroPie
 Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez en la Terminal escribir:
 
@@ -49,6 +55,11 @@ Or open the Terminal with `Ctrl + Alt + F3` -- Abrimos una Terminal con Ctrl + A
 
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/batocera.sh | bash
+```
+
+# Roms only Type:
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/bato_roms_only.sh | bash
 ```
 
 En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexión al mínimo.
