@@ -23,7 +23,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_only_roms
 ```
 
 
-# RetroPie
+## RetroPie
 Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez en la Terminal escribir:
 
 ### Scrapped Type:
@@ -36,7 +36,7 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie.sh | b
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retro_only_roms.sh | bash
 ```
 
-# Batocera
+## Batocera
 Conectarse por `SSH`
 
 ### Login:
