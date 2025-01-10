@@ -3,21 +3,21 @@
 ![NeoGeo Logo](/neogeomvs.png)
 
 
-# Recalbox
+## Recalbox
 Instalación fácil:
 Salimos con `ALT + F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT + F2` e iniciamos sesión:
 
-# Login:
+### Login:
 User:`root`
 
 Password: `recalboxroot`
 
-# Type:
+### Scrapped Type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recalbox.sh | bash
 ```
 
-# Roms only Type:
+### Roms only Type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_only_roms.sh | bash
 ```
@@ -26,12 +26,12 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_only_roms
 # RetroPie
 Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez en la Terminal escribir:
 
-# Type:
+### Scrapped Type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie.sh | bash
 ```
 
-# Roms only Type:
+### Roms only Type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retro_only_roms.sh | bash
 ```
@@ -39,25 +39,25 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retro_only_roms
 # Batocera
 Conectarse por `SSH`
 
-# Login:
+### Login:
 User:`root`
 
 Password: `linux`
 
-# Type:
+### Scrapped Type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/batocera.sh | bash
 ```
 
 Or open the Terminal with `Ctrl + Alt + F3` -- Abrimos una Terminal con Ctrl + Alt + F3:
 
-# Type:
+### Type:
 
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/batocera.sh | bash
 ```
 
-# Roms only Type:
+### Roms only Type:
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/bato_only_roms.sh | bash
 ```
@@ -75,12 +75,12 @@ En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede 
 </p>
 
 
-# Tutorial: Retroconsolas
+## Tutorial: Retroconsolas
 [https://sites.google.com/view/lucianostech/retro-consolas](https://sites.google.com/view/lucianostech/retro-consolas)
 
-# Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
+## Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
 [https://sites.google.com/view/lucianostech/joystick-arcade](https://sites.google.com/view/lucianostech/joystick-arcade)
 
-# Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
+## Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
 [https://sites.google.com/view/lucianostech/BLE-Arcade](https://sites.google.com/view/lucianostech/BLE-Arcade)
 
