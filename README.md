@@ -76,10 +76,10 @@ En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede 
 
 
 # Tutorial: Retroconsolas
-[https://sites.google.com/view/raspberrypibuenosaires/retro-consolas](https://sites.google.com/view/lucianostech/retro-consolas)
+[https://sites.google.com/view/lucianostech/retro-consolas](https://sites.google.com/view/lucianostech/retro-consolas)
 
 # Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
-[https://sites.google.com/view/raspberrypibuenosaires/joystick-arcade](https://sites.google.com/view/lucianostech/joystick-arcade)
+[https://sites.google.com/view/lucianostech/joystick-arcade](https://sites.google.com/view/lucianostech/joystick-arcade)
 
 # Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
 [https://sites.google.com/view/lucianostech/BLE-Arcade](https://sites.google.com/view/lucianostech/BLE-Arcade)
