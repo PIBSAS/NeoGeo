@@ -10,7 +10,7 @@ RUTA=https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/
 echo
 echo "Clean"
 echo
-echo "Limpiar roms de Neogeo erroneas y scrapeo"
+echo "Limpiar roms de Neogeo erroneas"
 echo
 rm RetroPie/roms/neogeo/2020bb.zip
 rm RetroPie/roms/neogeo/3countb.zip
