@@ -21,6 +21,9 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recalbox.sh | b
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_only_roms.sh | bash
 ```
+```
+curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recroms.sh | bash
+```
 
 
 ## RetroPie
