@@ -11,7 +11,8 @@ mount -o remount,rw /
 mount -o remount,rw /boot
 
 RUTA="https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/"
-DEST="../roms/neogeo"
+CONSOLA="megadrive"
+DEST="../roms/${CONSOLA}"
 MEDIA="$DEST/media"
 
 echo -e "\nClean: Limpiar roms de Neogeo erroneas\n"
@@ -39,7 +40,6 @@ roms=(
   zedblade zintrckb zupapa
 )
 
-# Eliminar roms
 for rom in "${roms[@]}"; do
   rm -f "$DEST/${rom}.zip"
 done
@@ -53,13 +53,13 @@ mkdir -p "$MEDIA/marquees" "$MEDIA/screenshots" "$MEDIA/videos"
 echo -e "\nDescargando ROMs\n"
 
 for rom in "${roms[@]}"; do
-  wget -q -P "$DEST" "${RUTA}neogeo/${rom}.zip"
+  wget -P "$DEST" "${RUTA}${CONSOLA}/${rom}.zip"
 done
 
 echo -e "\nGamelist\n"
-wget -q -P "$DEST" "${RUTA}neogeo/gamelist.xml"
+wget -q -P "$DEST" "${RUTA}${CONSOLA}/gamelist.xml"
 
-echo -e "\nA disfRUTAr\nEnjoy\n"
+echo -e "\nA disfrutar\nEnjoy\n"
 sleep 1
 reboot
 exit
