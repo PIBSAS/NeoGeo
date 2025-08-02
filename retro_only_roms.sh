@@ -12,7 +12,7 @@ mount -o remount,rw /boot
 
 RUTA="https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/"
 CONSOLA="neogeo"
-DEST="../roms/${CONSOLA}"
+DEST="RetroPie/roms/${CONSOLA}"
 
 echo -e "\nClean: Limpiar roms de Neogeo erroneas\n"
 
@@ -57,6 +57,7 @@ echo -e "\nA disfrutar\nEnjoy\n"
 sleep 1
 reboot
 exit
+
 : <<'EOF'
 #!/bin/bash
 ###########################################################################
