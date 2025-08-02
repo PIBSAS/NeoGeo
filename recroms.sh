@@ -53,11 +53,11 @@ mkdir -p "$MEDIA/marquees" "$MEDIA/screenshots" "$MEDIA/videos"
 echo -e "\nDescargando ROMs\n"
 
 for rom in "${roms[@]}"; do
-  wget -P "$DEST" "${RUTA}${CONSOLA}/${rom}.zip"
+  wget -P "$DEST" "${RUTA}neogeo/${rom}.zip"
 done
 
 echo -e "\nGamelist\n"
-wget -q -P "$DEST" "${RUTA}${CONSOLA}/gamelist.xml"
+wget -q -P "$DEST" "${RUTA}neogeo/gamelist.xml"
 
 echo -e "\nA disfrutar\nEnjoy\n"
 sleep 1
