@@ -2,8 +2,9 @@
 
 ![NeoGeo Logo](/neogeomvs.png)
 
-
-## Recalbox
+----
+# Recalbox
+---
 Instalación fácil:
 Salimos con `ALT + F4` de EmulationStation y vamos a la terminal de Recalbox con `ALT + F2` e iniciamos sesión:
 
@@ -21,12 +22,10 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recalbox.sh | b
 ```
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recal_only_roms.sh | bash
 ```
-```
-curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/recroms.sh | bash
-```
 
-
-## RetroPie
+---
+# RetroPie
+---
 Salir de EmulationStation con `Start` opción `Quit Emulationstation` . Una vez en la Terminal escribir:
 
 ### Scrapped Type:
@@ -39,7 +38,9 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retropie.sh | b
 curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/retro_only_roms.sh | bash
 ```
 
-## Batocera
+---
+# Batocera
+---
 Conectarse por `SSH`
 
 ### Login:
@@ -67,23 +68,28 @@ curl -sSL https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/bato_only_roms.
 
 En todos los Sistemas se recomienda usar una conexión Ethernet, igual se puede con WiFi pero reducimos el riesgo de desconexión al mínimo.
 
+---
 <h1 align="center"> Invite a Coffee</h1>
+
+---
 <p align="center">
 <a href="https://www.paypal.com/paypalme/RaspberryPiBsAs">
-<img src="https://raw.githubusercontent.com/PIBSAS/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="40" height="50">
+<img src="https://raw.githubusercontent.com/PIBSAS/MiPiTV/master/Paypal_2014_logo.png" alt="Invite a Coffee" width="80" height="100">
 </a>
 <a href="https://link.mercadopago.com.ar/raspberrypibsas">
-<img src="https://raw.githubusercontent.com/PIBSAS/MiPiTV/master/MercadoPago.png" alt="Invite a Coffee" width="40" height="50">
+<img src="https://raw.githubusercontent.com/PIBSAS/MiPiTV/master/MercadoPago.png" alt="Invite a Coffee" width="80" height="100">
 </a>
 </p>
 
-
+---
 ## Tutorial: Retroconsolas
 [https://sites.google.com/view/lucianostech/retro-consolas](https://sites.google.com/view/lucianostech/retro-consolas)
 
+----
 ## Tutorial: Crea tu propio Joystick Arcade con Pro-Micro mejor que Zero Delay
 [https://sites.google.com/view/lucianostech/joystick-arcade](https://sites.google.com/view/lucianostech/joystick-arcade)
 
+---
 ## Tutorial: Crea tu propio Joystick Arcade Bluetooth LE con ESP32:
 [https://sites.google.com/view/lucianostech/BLE-Arcade](https://sites.google.com/view/lucianostech/BLE-Arcade)
 
