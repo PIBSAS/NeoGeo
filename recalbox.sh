@@ -11,7 +11,7 @@ mount -o remount,rw /
 mount -o remount,rw /boot
 
 RUTA="https://raw.githubusercontent.com/PIBSAS/NeoGeo/master/"
-CONSOLA="neogeo"
+CONSOLA="nes"
 DEST="../roms/${CONSOLA}"
 MEDIA="$DEST/media"
 VIDEOS="$MEDIA/videos"
