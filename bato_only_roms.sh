@@ -43,15 +43,15 @@ for rom in "${roms[@]}"; do
   rm -f "${DEST}/${rom}.zip"
 done
 
-rm -f "$DEST/gamelist.xml"
+rm -f "${DEST}/gamelist.xml"
 
 echo -e "\nGames\n"
 for rom in "${roms[@]}"; do
-  wget -P "$DEST" "${RUTA}neogeo/${rom}.zip"
+  wget -P "${DEST}" "${RUTA}neogeo/${rom}.zip"
 done
 
 echo -e "\nGamelist\n"
-wget -P "$DEST" "${RUTA}neogeo/gamelist.xml"
+wget -P "${DEST}" "${RUTA}neogeo/gamelist.xml"
 
 echo -e "\nA disfrutar\nEnjoy\n"
 sleep 1
